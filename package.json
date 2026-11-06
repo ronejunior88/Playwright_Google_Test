@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
-  "scripts": {},
+  "scripts": {
+    "test": "playwright test",
+    "test:manual": "playwright test --config=playwright.manual.config.ts"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/ronejunior88/Playwright_Google_Test.git"
