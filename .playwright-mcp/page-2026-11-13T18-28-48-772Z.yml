@@ -1,0 +1,1492 @@
+- generic [active] [ref=f4e1]:
+  - generic [ref=f4e3]:
+    - generic [ref=f4e4]:
+      - region "Marketing notification from Udemy" [ref=f4e5]:
+        - generic [ref=f4e6]:
+          - link "AI is changing the game | Get the skills with Udemy Business." [ref=f4e11] [cursor=pointer]:
+            - /url: https://business.udemy.com/spotlight/ai-upskilling
+          - button [ref=f4e13] [cursor=pointer]:
+            - img "Close" [ref=f4e14]
+      - banner [ref=f4e16]:
+        - navigation "Skip to content":
+          - link "Skip to content":
+            - /url: "#main-content-anchor"
+        - link [ref=f4e18] [cursor=pointer]:
+          - /url: /
+          - img "Udemy" [ref=f4e19]
+        - navigation "Explore" [ref=f4e20]:
+          - button "Explore" [ref=f4e21] [cursor=pointer]
+        - link "Subscribe" [ref=f4e24] [cursor=pointer]:
+          - /url: /personal-plan
+        - generic [ref=f4e26]:
+          - generic [ref=f4e27]: Search for anything
+          - generic [ref=f4e28]:
+            - combobox "Search for anything" [ref=f4e29]
+            - button [disabled] [ref=f4e30]:
+              - img "Submit search" [ref=f4e31]
+        - link "Udemy Business" [ref=f4e34] [cursor=pointer]:
+          - /url: /udemy-business/request-demo-mx/?ref=ufb_header_demo&locale=en_US
+        - link "Teach on Udemy" [ref=f4e37] [cursor=pointer]:
+          - /url: /teaching/?ref=teach_header
+        - link [ref=f4e40] [cursor=pointer]:
+          - /url: /cart/
+          - img "Shopping cart with 0 items" [ref=f4e41]
+        - link "Log in" [ref=f4e44] [cursor=pointer]:
+          - /url: https://www.udemy.com/join/login-popup/?locale=en_US&response_type=html&next=https%3A%2F%2Fwww.udemy.com%2F
+        - link "Sign up" [ref=f4e47] [cursor=pointer]:
+          - /url: https://www.udemy.com/join/signup-popup/?locale=en_US&response_type=html&next=https%3A%2F%2Fwww.udemy.com%2F
+        - generic [ref=f4e49]:
+          - button [ref=f4e50] [cursor=pointer]:
+            - img "Choose a language" [ref=f4e51]
+          - generic [aria-hidden] [ref=f4e53]:
+            - link [ref=f4e54] [cursor=pointer]:
+              - /url: /
+              - text: English
+            - link [ref=f4e55] [cursor=pointer]:
+              - /url: /ar/
+              - text: العربية
+            - link [ref=f4e56] [cursor=pointer]:
+              - /url: /de/
+              - text: Deutsch
+            - link [ref=f4e57] [cursor=pointer]:
+              - /url: /es/
+              - text: Español
+            - link [ref=f4e58] [cursor=pointer]:
+              - /url: /fr/
+              - text: Français
+            - link [ref=f4e59] [cursor=pointer]:
+              - /url: /id/
+              - text: Bahasa Indonesia
+            - link [ref=f4e60] [cursor=pointer]:
+              - /url: /it/
+              - text: Italiano
+            - link [ref=f4e61] [cursor=pointer]:
+              - /url: /ja/
+              - text: 日本語
+            - link [ref=f4e62] [cursor=pointer]:
+              - /url: /ko/
+              - text: 한국어
+            - link [ref=f4e63] [cursor=pointer]:
+              - /url: /nl/
+              - text: Nederlands
+            - link [ref=f4e64] [cursor=pointer]:
+              - /url: /pl/
+              - text: Polski
+            - link [ref=f4e65] [cursor=pointer]:
+              - /url: /pt/
+              - text: Português
+            - link [ref=f4e66] [cursor=pointer]:
+              - /url: /ro/
+              - text: Română
+            - link [ref=f4e67] [cursor=pointer]:
+              - /url: /ru/
+              - text: Русский
+            - link [ref=f4e68] [cursor=pointer]:
+              - /url: /th/
+              - text: ภาษาไทย
+            - link [ref=f4e69] [cursor=pointer]:
+              - /url: /tr/
+              - text: Türkçe
+            - link [ref=f4e70] [cursor=pointer]:
+              - /url: /vi/
+              - text: Tiếng Việt
+            - link [ref=f4e71] [cursor=pointer]:
+              - /url: /zh-cn/
+              - text: 中文(简体)
+            - link [ref=f4e72] [cursor=pointer]:
+              - /url: /zh-tw/
+              - text: 中文(繁體)
+      - navigation [aria-hidden] [ref=f4e73]:
+        - link [ref=f4e74] [cursor=pointer]:
+          - /url: /courses/development/
+          - text: Development
+        - generic [ref=f4e75]:
+          - link [ref=f4e76] [cursor=pointer]:
+            - /url: /courses/development/web-development/
+            - text: Web Development
+          - link [ref=f4e77] [cursor=pointer]:
+            - /url: /courses/development/data-science/
+            - text: Data Science
+          - link [ref=f4e78] [cursor=pointer]:
+            - /url: /courses/development/mobile-apps/
+            - text: Mobile Development
+          - link [ref=f4e79] [cursor=pointer]:
+            - /url: /courses/development/programming-languages/
+            - text: Programming Languages
+          - link [ref=f4e80] [cursor=pointer]:
+            - /url: /courses/development/game-development/
+            - text: Game Development
+          - link [ref=f4e81] [cursor=pointer]:
+            - /url: /courses/development/databases/
+            - text: Database Design & Development
+          - link [ref=f4e82] [cursor=pointer]:
+            - /url: /courses/development/software-testing/
+            - text: Software Testing
+          - link [ref=f4e83] [cursor=pointer]:
+            - /url: /courses/development/software-engineering/
+            - text: Software Engineering
+          - link [ref=f4e84] [cursor=pointer]:
+            - /url: /courses/development/development-tools/
+            - text: Software Development Tools
+          - link [ref=f4e85] [cursor=pointer]:
+            - /url: /courses/development/no-code-development/
+            - text: No-Code Development
+        - link [ref=f4e86] [cursor=pointer]:
+          - /url: /courses/business/
+          - text: Business
+        - generic [ref=f4e87]:
+          - link [ref=f4e88] [cursor=pointer]:
+            - /url: /courses/business/entrepreneurship/
+            - text: Entrepreneurship
+          - link [ref=f4e89] [cursor=pointer]:
+            - /url: /courses/business/communications/
+            - text: Communication
+          - link [ref=f4e90] [cursor=pointer]:
+            - /url: /courses/business/management/
+            - text: Management
+          - link [ref=f4e91] [cursor=pointer]:
+            - /url: /courses/business/sales/
+            - text: Sales
+          - link [ref=f4e92] [cursor=pointer]:
+            - /url: /courses/business/strategy/
+            - text: Business Strategy
+          - link [ref=f4e93] [cursor=pointer]:
+            - /url: /courses/business/operations/
+            - text: Operations
+          - link [ref=f4e94] [cursor=pointer]:
+            - /url: /courses/business/project-management/
+            - text: Project Management
+          - link [ref=f4e95] [cursor=pointer]:
+            - /url: /courses/business/business-law/
+            - text: Business Law
+          - link [ref=f4e96] [cursor=pointer]:
+            - /url: /courses/business/analytics-and-intelligence/
+            - text: Business Analytics & Intelligence
+          - link [ref=f4e97] [cursor=pointer]:
+            - /url: /courses/business/human-resources/
+            - text: Human Resources
+          - link [ref=f4e98] [cursor=pointer]:
+            - /url: /courses/business/industry/
+            - text: Industry
+          - link [ref=f4e99] [cursor=pointer]:
+            - /url: /courses/business/e-commerce/
+            - text: E-Commerce
+          - link [ref=f4e100] [cursor=pointer]:
+            - /url: /courses/business/media/
+            - text: Media
+          - link [ref=f4e101] [cursor=pointer]:
+            - /url: /courses/business/real-estate/
+            - text: Real Estate
+          - link [ref=f4e102] [cursor=pointer]:
+            - /url: /courses/business/other-business/
+            - text: Other Business
+        - link [ref=f4e103] [cursor=pointer]:
+          - /url: /courses/finance-and-accounting/
+          - text: Finance & Accounting
+        - generic [ref=f4e104]:
+          - link [ref=f4e105] [cursor=pointer]:
+            - /url: /courses/finance-and-accounting/accounting-bookkeeping/
+            - text: Accounting & Bookkeeping
+          - link [ref=f4e106] [cursor=pointer]:
+            - /url: /courses/finance-and-accounting/compliance/
+            - text: Compliance
+          - link [ref=f4e107] [cursor=pointer]:
+            - /url: /courses/finance-and-accounting/cryptocurrency-and-blockchain/
+            - text: Cryptocurrency & Blockchain
+          - link [ref=f4e108] [cursor=pointer]:
+            - /url: /courses/finance-and-accounting/economics/
+            - text: Economics
+          - link [ref=f4e109] [cursor=pointer]:
+            - /url: /courses/finance-and-accounting/finance-management/
+            - text: Finance
+          - link [ref=f4e110] [cursor=pointer]:
+            - /url: /courses/finance-and-accounting/finance-certification-and-exam-prep/
+            - text: Finance Cert & Exam Prep
+          - link [ref=f4e111] [cursor=pointer]:
+            - /url: /courses/finance-and-accounting/financial-modeling-and-analysis/
+            - text: Financial Modeling & Analysis
+          - link [ref=f4e112] [cursor=pointer]:
+            - /url: /courses/finance-and-accounting/investing-and-trading/
+            - text: Investing & Trading
+          - link [ref=f4e113] [cursor=pointer]:
+            - /url: /courses/finance-and-accounting/money-management-tools/
+            - text: Money Management Tools
+          - link [ref=f4e114] [cursor=pointer]:
+            - /url: /courses/finance-and-accounting/taxes/
+            - text: Taxes
+          - link [ref=f4e115] [cursor=pointer]:
+            - /url: /courses/finance-and-accounting/other-finance-and-accounting/
+            - text: Other Finance & Accounting
+        - link [ref=f4e116] [cursor=pointer]:
+          - /url: /courses/it-and-software/
+          - text: IT & Software
+        - generic [ref=f4e117]:
+          - link [ref=f4e118] [cursor=pointer]:
+            - /url: /courses/it-and-software/it-certification/
+            - text: IT Certifications
+          - link [ref=f4e119] [cursor=pointer]:
+            - /url: /courses/it-and-software/network-and-security/
+            - text: Network & Security
+          - link [ref=f4e120] [cursor=pointer]:
+            - /url: /courses/it-and-software/hardware/
+            - text: Hardware
+          - link [ref=f4e121] [cursor=pointer]:
+            - /url: /courses/it-and-software/operating-systems/
+            - text: Operating Systems & Servers
+          - link [ref=f4e122] [cursor=pointer]:
+            - /url: /courses/it-and-software/other-it-and-software/
+            - text: Other IT & Software
+        - link [ref=f4e123] [cursor=pointer]:
+          - /url: /courses/office-productivity/
+          - text: Office Productivity
+        - generic [ref=f4e124]:
+          - link [ref=f4e125] [cursor=pointer]:
+            - /url: /courses/office-productivity/microsoft/
+            - text: Microsoft
+          - link [ref=f4e126] [cursor=pointer]:
+            - /url: /courses/office-productivity/apple/
+            - text: Apple
+          - link [ref=f4e127] [cursor=pointer]:
+            - /url: /courses/office-productivity/google/
+            - text: Google
+          - link [ref=f4e128] [cursor=pointer]:
+            - /url: /courses/office-productivity/sap/
+            - text: SAP
+          - link [ref=f4e129] [cursor=pointer]:
+            - /url: /courses/office-productivity/oracle/
+            - text: Oracle
+          - link [ref=f4e130] [cursor=pointer]:
+            - /url: /courses/office-productivity/other-productivity/
+            - text: Other Office Productivity
+        - link [ref=f4e131] [cursor=pointer]:
+          - /url: /courses/personal-development/
+          - text: Personal Development
+        - generic [ref=f4e132]:
+          - link [ref=f4e133] [cursor=pointer]:
+            - /url: /courses/personal-development/personal-transformation/
+            - text: Personal Transformation
+          - link [ref=f4e134] [cursor=pointer]:
+            - /url: /courses/personal-development/productivity/
+            - text: Personal Productivity
+          - link [ref=f4e135] [cursor=pointer]:
+            - /url: /courses/personal-development/leadership/
+            - text: Leadership
+          - link [ref=f4e136] [cursor=pointer]:
+            - /url: /courses/personal-development/career-development/
+            - text: Career Development
+          - link [ref=f4e137] [cursor=pointer]:
+            - /url: /courses/personal-development/parenting-and-relationships/
+            - text: Parenting & Relationships
+          - link [ref=f4e138] [cursor=pointer]:
+            - /url: /courses/personal-development/happiness/
+            - text: Happiness
+          - link [ref=f4e139] [cursor=pointer]:
+            - /url: /courses/lifestyle/esoteric-practices/
+            - text: Esoteric Practices
+          - link [ref=f4e140] [cursor=pointer]:
+            - /url: /courses/personal-development/religion-and-spirituality/
+            - text: Religion & Spirituality
+          - link [ref=f4e141] [cursor=pointer]:
+            - /url: /courses/personal-development/personal-brand-building/
+            - text: Personal Brand Building
+          - link [ref=f4e142] [cursor=pointer]:
+            - /url: /courses/personal-development/creativity/
+            - text: Creativity
+          - link [ref=f4e143] [cursor=pointer]:
+            - /url: /courses/personal-development/influence/
+            - text: Influence
+          - link [ref=f4e144] [cursor=pointer]:
+            - /url: /courses/personal-development/self-esteem-and-confidence/
+            - text: Self Esteem & Confidence
+          - link [ref=f4e145] [cursor=pointer]:
+            - /url: /courses/personal-development/stress-management/
+            - text: Stress Management
+          - link [ref=f4e146] [cursor=pointer]:
+            - /url: /courses/personal-development/memory/
+            - text: Memory & Study Skills
+          - link [ref=f4e147] [cursor=pointer]:
+            - /url: /courses/personal-development/motivation/
+            - text: Motivation
+          - link [ref=f4e148] [cursor=pointer]:
+            - /url: /courses/personal-development/other-personal-development/
+            - text: Other Personal Development
+        - link [ref=f4e149] [cursor=pointer]:
+          - /url: /courses/design/
+          - text: Design
+        - generic [ref=f4e150]:
+          - link [ref=f4e151] [cursor=pointer]:
+            - /url: /courses/design/web-design/
+            - text: Web Design
+          - link [ref=f4e152] [cursor=pointer]:
+            - /url: /courses/design/graphic-design-and-illustration/
+            - text: Graphic Design & Illustration
+          - link [ref=f4e153] [cursor=pointer]:
+            - /url: /courses/design/design-tools/
+            - text: Design Tools
+          - link [ref=f4e154] [cursor=pointer]:
+            - /url: /courses/design/user-experience/
+            - text: User Experience Design
+          - link [ref=f4e155] [cursor=pointer]:
+            - /url: /courses/design/game-design/
+            - text: Game Design
+          - link [ref=f4e156] [cursor=pointer]:
+            - /url: /courses/design/3d-and-animation/
+            - text: 3D & Animation
+          - link [ref=f4e157] [cursor=pointer]:
+            - /url: /courses/design/fashion/
+            - text: Fashion Design
+          - link [ref=f4e158] [cursor=pointer]:
+            - /url: /courses/design/architectural-design/
+            - text: Architectural Design
+          - link [ref=f4e159] [cursor=pointer]:
+            - /url: /courses/design/interior-design/
+            - text: Interior Design
+          - link [ref=f4e160] [cursor=pointer]:
+            - /url: /courses/design/other-design/
+            - text: Other Design
+        - link [ref=f4e161] [cursor=pointer]:
+          - /url: /courses/marketing/
+          - text: Marketing
+        - generic [ref=f4e162]:
+          - link [ref=f4e163] [cursor=pointer]:
+            - /url: /courses/marketing/digital-marketing/
+            - text: Digital Marketing
+          - link [ref=f4e164] [cursor=pointer]:
+            - /url: /courses/marketing/search-engine-optimization/
+            - text: Search Engine Optimization
+          - link [ref=f4e165] [cursor=pointer]:
+            - /url: /courses/marketing/social-media-marketing/
+            - text: Social Media Marketing
+          - link [ref=f4e166] [cursor=pointer]:
+            - /url: /courses/marketing/branding/
+            - text: Branding
+          - link [ref=f4e167] [cursor=pointer]:
+            - /url: /courses/marketing/marketing-fundamentals/
+            - text: Marketing Fundamentals
+          - link [ref=f4e168] [cursor=pointer]:
+            - /url: /courses/marketing/analytics-and-automation/
+            - text: Marketing Analytics & Automation
+          - link [ref=f4e169] [cursor=pointer]:
+            - /url: /courses/marketing/public-relations/
+            - text: Public Relations
+          - link [ref=f4e170] [cursor=pointer]:
+            - /url: /courses/marketing/advertising/
+            - text: Paid Advertising
+          - link [ref=f4e171] [cursor=pointer]:
+            - /url: /courses/marketing/video-and-mobile-marketing/
+            - text: Video & Mobile Marketing
+          - link [ref=f4e172] [cursor=pointer]:
+            - /url: /courses/marketing/content-marketing/
+            - text: Content Marketing
+          - link [ref=f4e173] [cursor=pointer]:
+            - /url: /courses/marketing/growth-hacking/
+            - text: Growth Hacking
+          - link [ref=f4e174] [cursor=pointer]:
+            - /url: /courses/marketing/affiliate-marketing/
+            - text: Affiliate Marketing
+          - link [ref=f4e175] [cursor=pointer]:
+            - /url: /courses/marketing/product-marketing/
+            - text: Product Marketing
+          - link [ref=f4e176] [cursor=pointer]:
+            - /url: /courses/marketing/other-marketing/
+            - text: Other Marketing
+        - link [ref=f4e177] [cursor=pointer]:
+          - /url: /courses/lifestyle/
+          - text: Lifestyle
+        - generic [ref=f4e178]:
+          - link [ref=f4e179] [cursor=pointer]:
+            - /url: /courses/lifestyle/arts-and-crafts/
+            - text: Arts & Crafts
+          - link [ref=f4e180] [cursor=pointer]:
+            - /url: /courses/lifestyle/beauty-and-makeup/
+            - text: Beauty & Makeup
+          - link [ref=f4e181] [cursor=pointer]:
+            - /url: /courses/lifestyle/esoteric-practices/
+            - text: Esoteric Practices
+          - link [ref=f4e182] [cursor=pointer]:
+            - /url: /courses/lifestyle/food-and-beverage/
+            - text: Food & Beverage
+          - link [ref=f4e183] [cursor=pointer]:
+            - /url: /courses/lifestyle/gaming/
+            - text: Gaming
+          - link [ref=f4e184] [cursor=pointer]:
+            - /url: /courses/lifestyle/home-improvement/
+            - text: Home Improvement & Gardening
+          - link [ref=f4e185] [cursor=pointer]:
+            - /url: /courses/lifestyle/pet-care-and-training/
+            - text: Pet Care & Training
+          - link [ref=f4e186] [cursor=pointer]:
+            - /url: /courses/lifestyle/travel/
+            - text: Travel
+          - link [ref=f4e187] [cursor=pointer]:
+            - /url: /courses/lifestyle/other-lifestyle/
+            - text: Other Lifestyle
+        - link [ref=f4e188] [cursor=pointer]:
+          - /url: /courses/photography-and-video/
+          - text: Photography & Video
+        - generic [ref=f4e189]:
+          - link [ref=f4e190] [cursor=pointer]:
+            - /url: /courses/photography-and-video/digital-photography/
+            - text: Digital Photography
+          - link [ref=f4e191] [cursor=pointer]:
+            - /url: /courses/photography-and-video/photography-fundamentals/
+            - text: Photography
+          - link [ref=f4e192] [cursor=pointer]:
+            - /url: /courses/photography-and-video/portraits/
+            - text: Portrait Photography
+          - link [ref=f4e193] [cursor=pointer]:
+            - /url: /courses/photography-and-video/photography-tools/
+            - text: Photography Tools
+          - link [ref=f4e194] [cursor=pointer]:
+            - /url: /courses/photography-and-video/commercial-photography/
+            - text: Commercial Photography
+          - link [ref=f4e195] [cursor=pointer]:
+            - /url: /courses/photography-and-video/video-design/
+            - text: Video Design
+          - link [ref=f4e196] [cursor=pointer]:
+            - /url: /courses/photography-and-video/other-photography-and-video/
+            - text: Other Photography & Video
+        - link [ref=f4e197] [cursor=pointer]:
+          - /url: /courses/health-and-fitness/
+          - text: Health & Fitness
+        - generic [ref=f4e198]:
+          - link [ref=f4e199] [cursor=pointer]:
+            - /url: /courses/health-and-fitness/fitness/
+            - text: Fitness
+          - link [ref=f4e200] [cursor=pointer]:
+            - /url: /courses/health-and-fitness/general-health/
+            - text: General Health
+          - link [ref=f4e201] [cursor=pointer]:
+            - /url: /courses/health-and-fitness/sports/
+            - text: Sports
+          - link [ref=f4e202] [cursor=pointer]:
+            - /url: /courses/health-and-fitness/nutrition/
+            - text: Nutrition & Diet
+          - link [ref=f4e203] [cursor=pointer]:
+            - /url: /courses/health-and-fitness/yoga/
+            - text: Yoga
+          - link [ref=f4e204] [cursor=pointer]:
+            - /url: /courses/health-and-fitness/mental-health/
+            - text: Mental Health
+          - link [ref=f4e205] [cursor=pointer]:
+            - /url: /courses/health-and-fitness/self-defense/
+            - text: Martial Arts & Self Defense
+          - link [ref=f4e206] [cursor=pointer]:
+            - /url: /courses/health-and-fitness/safety-and-first-aid/
+            - text: Safety & First Aid
+          - link [ref=f4e207] [cursor=pointer]:
+            - /url: /courses/health-and-fitness/dance/
+            - text: Dance
+          - link [ref=f4e208] [cursor=pointer]:
+            - /url: /courses/health-and-fitness/meditation/
+            - text: Meditation
+          - link [ref=f4e209] [cursor=pointer]:
+            - /url: /courses/health-and-fitness/other-health-and-fitness/
+            - text: Other Health & Fitness
+        - link [ref=f4e210] [cursor=pointer]:
+          - /url: /courses/music/
+          - text: Music
+        - generic [ref=f4e211]:
+          - link [ref=f4e212] [cursor=pointer]:
+            - /url: /courses/music/instruments/
+            - text: Instruments
+          - link [ref=f4e213] [cursor=pointer]:
+            - /url: /courses/music/production/
+            - text: Music Production
+          - link [ref=f4e214] [cursor=pointer]:
+            - /url: /courses/music/music-fundamentals/
+            - text: Music Fundamentals
+          - link [ref=f4e215] [cursor=pointer]:
+            - /url: /courses/music/vocal/
+            - text: Vocal
+          - link [ref=f4e216] [cursor=pointer]:
+            - /url: /courses/music/music-techniques/
+            - text: Music Techniques
+          - link [ref=f4e217] [cursor=pointer]:
+            - /url: /courses/music/music-software/
+            - text: Music Software
+          - link [ref=f4e218] [cursor=pointer]:
+            - /url: /courses/music/other-music/
+            - text: Other Music
+        - link [ref=f4e219] [cursor=pointer]:
+          - /url: /courses/teaching-and-academics/
+          - text: Teaching & Academics
+        - generic [ref=f4e220]:
+          - link [ref=f4e221] [cursor=pointer]:
+            - /url: /courses/teaching-and-academics/engineering/
+            - text: Engineering
+          - link [ref=f4e222] [cursor=pointer]:
+            - /url: /courses/teaching-and-academics/humanities/
+            - text: Humanities
+          - link [ref=f4e223] [cursor=pointer]:
+            - /url: /courses/teaching-and-academics/math/
+            - text: Math
+          - link [ref=f4e224] [cursor=pointer]:
+            - /url: /courses/teaching-and-academics/science/
+            - text: Science
+          - link [ref=f4e225] [cursor=pointer]:
+            - /url: /courses/teaching-and-academics/online-education/
+            - text: Online Education
+          - link [ref=f4e226] [cursor=pointer]:
+            - /url: /courses/teaching-and-academics/social-science/
+            - text: Social Science
+          - link [ref=f4e227] [cursor=pointer]:
+            - /url: /courses/teaching-and-academics/language/
+            - text: Language Learning
+          - link [ref=f4e228] [cursor=pointer]:
+            - /url: /courses/teaching-and-academics/teacher-training/
+            - text: Teacher Training
+          - link [ref=f4e229] [cursor=pointer]:
+            - /url: /courses/teaching-and-academics/test-prep/
+            - text: Test Prep
+          - link [ref=f4e230] [cursor=pointer]:
+            - /url: /courses/teaching-and-academics/other-teaching-academics/
+            - text: Other Teaching & Academics
+    - main [ref=f4e231]:
+      - generic [ref=f4e234]:
+        - region "Carousel" [ref=f4e240]:
+          - generic [ref=f4e242]:
+            - generic [ref=f4e248]:
+              - paragraph [ref=f4e249]: Jump into learning — for less
+              - paragraph [ref=f4e250]: "If you’re new to Udemy, we’ve got good news: For a limited time, courses start at just R$24.90 for new learners!"
+              - link [ref=f4e252] [cursor=pointer]:
+                - /url: https://www.udemy.com/join/passwordless-auth/?next=https%3A%2F%2Fwww.udemy.com%2F&response_type=html&action=signup&mode=marketplace-signup
+                - generic [ref=f4e253]: Sign up now
+            - generic [ref=f4e259]:
+              - paragraph [ref=f4e260]: Meet your career sidekick.
+              - paragraph [ref=f4e261]: Focus on your career with Personal Plan. Now with more ways to assess skills, practice, and prepare for what's next.
+              - link [ref=f4e263] [cursor=pointer]:
+                - /url: https://www.udemy.com/personal-plan/
+                - generic [ref=f4e264]: Get Personal Plan
+            - generic [ref=f4e270]:
+              - paragraph [ref=f4e271]: Jump into learning — for less
+              - paragraph [ref=f4e272]: "If you’re new to Udemy, we’ve got good news: For a limited time, courses start at just R$24.90 for new learners!"
+              - link "Sign up now" [ref=f4e274] [cursor=pointer]:
+                - /url: https://www.udemy.com/join/passwordless-auth/?next=https%3A%2F%2Fwww.udemy.com%2F&response_type=html&action=signup&mode=marketplace-signup
+            - generic [ref=f4e281]:
+              - paragraph [ref=f4e282]: Meet your career sidekick.
+              - paragraph [ref=f4e283]: Focus on your career with Personal Plan. Now with more ways to assess skills, practice, and prepare for what's next.
+              - link [ref=f4e285] [cursor=pointer]:
+                - /url: https://www.udemy.com/personal-plan/
+                - generic [ref=f4e286]: Get Personal Plan
+          - generic:
+            - button [ref=f4e287] [cursor=pointer]:
+              - img "Previous" [ref=f4e288]
+            - button [ref=f4e290] [cursor=pointer]:
+              - img "Next" [ref=f4e291]
+        - generic [ref=f4e296]:
+          - generic [ref=f4e297]:
+            - heading "Learn essential career and life skills" [level=2] [ref=f4e298]
+            - paragraph [ref=f4e299]: Udemy helps you build in-demand skills fast and advance your career in a changing job market
+          - generic [ref=f4e300]:
+            - region "Carousel" [ref=f4e301]:
+              - generic [ref=f4e302]: Items 1, 2, 3 of 9
+              - generic [ref=f4e303]:
+                - link "Generative AI" [ref=f4e306] [cursor=pointer]:
+                  - /url: https://www.udemy.com/topic/generative-ai/
+                - link "IT Certifications" [ref=f4e315] [cursor=pointer]:
+                  - /url: https://www.udemy.com/courses/it-and-software/it-certification/
+                - link "Data Science" [ref=f4e324] [cursor=pointer]:
+                  - /url: https://www.udemy.com/topic/data-science/
+            - generic [ref=f4e337]:
+              - button [ref=f4e338] [cursor=pointer]:
+                - img "Previous" [ref=f4e339]
+              - button [ref=f4e345] [cursor=pointer]:
+                - img "Next" [ref=f4e346]
+        - generic [ref=f4e350]:
+          - heading "Trending Courses" [level=2] [ref=f4e353]
+          - region "Trending Courses" [ref=f4e354]:
+            - generic [ref=f4e355]: Items 1, 2, 3, 4 of 18
+            - generic [ref=f4e356]:
+              - group "PMP Exam Prep Course 35 PDUs/Hours Updated for the 2026 Exam" [ref=f4e357]:
+                - generic [ref=f4e360]:
+                  - generic [ref=f4e363]:
+                    - generic [ref=f4e364]:
+                      - heading [level=3] [ref=f4e365]:
+                        - link "PMP Exam Prep Course 35 PDUs/Hours Updated for the 2026 Exam" [ref=f4e366] [cursor=pointer]:
+                          - /url: /course/pmp-certification-exam-prep-course-pmbok-6th-edition/
+                      - generic [aria-hidden] [ref=f4e368]: "Learn the PMP Exam Mindset. 30-Day Study Plan. Based on PMBOK 8th Edition.Rating: 4.8 out of 5210068 reviews35.5 total hours274 lecturesAll Levels"
+                    - generic [ref=f4e370]:
+                      - generic [ref=f4e371]: "Instructor:"
+                      - text: TIA Training, Andrew Ramdayal
+                  - generic [ref=f4e372]:
+                    - list [ref=f4e374]:
+                      - listitem [ref=f4e375]:
+                        - generic [ref=f4e376]: Bestseller
+                      - listitem [ref=f4e378]:
+                        - generic [ref=f4e380]:
+                          - generic [ref=f4e381]: "Rating: 4.8 out of 5"
+                          - generic [aria-hidden] [ref=f4e382]: "4.8"
+                      - listitem [ref=f4e388]:
+                        - generic [ref=f4e389]: 210,068 ratings
+                    - generic [ref=f4e390]:
+                      - generic [ref=f4e391]: Error loading price
+                      - generic [ref=f4e397]:
+                        - button "Add to cart" [ref=f4e398] [cursor=pointer]
+                        - status [ref=f4e399]
+              - group "The Complete Claude Code & Claude Cowork Masterclass [2026]" [ref=f4e400]:
+                - generic [ref=f4e403]:
+                  - generic [ref=f4e406]:
+                    - generic [ref=f4e407]:
+                      - heading [level=3] [ref=f4e408]:
+                        - link "The Complete Claude Code & Claude Cowork Masterclass [2026]" [ref=f4e409] [cursor=pointer]:
+                          - /url: /course/claude-aiagents-cowork-masterclass/
+                      - generic [aria-hidden] [ref=f4e411]: "Master Claude Code, Plugins and Skills to Build AI Applications, Automate Business with Cowork, Deploy Autonomous AgentsRating: 4.5 out of 512232 reviews25 total hours187 lecturesAll Levels"
+                    - generic [ref=f4e413]:
+                      - generic [ref=f4e414]: "Instructors:"
+                      - text: Prof. Ryan Ahmed, PhD, MBA, Stemplicity Inc.
+                  - generic [ref=f4e415]:
+                    - list [ref=f4e417]:
+                      - listitem [ref=f4e418]:
+                        - generic [ref=f4e419]: Bestseller
+                      - listitem [ref=f4e421]:
+                        - generic [ref=f4e423]:
+                          - generic [ref=f4e424]: "Rating: 4.5 out of 5"
+                          - generic [aria-hidden] [ref=f4e425]: "4.5"
+                      - listitem [ref=f4e431]:
+                        - generic [ref=f4e432]: 12,232 ratings
+                    - generic [ref=f4e433]:
+                      - generic [ref=f4e434]: Error loading price
+                      - generic [ref=f4e440]:
+                        - button "Add to cart" [ref=f4e441] [cursor=pointer]
+                        - status [ref=f4e442]
+              - 'group "AI Engineer Agentic Track: The Complete Agent & MCP Course" [ref=f4e443]':
+                - generic [ref=f4e446]:
+                  - generic [ref=f4e449]:
+                    - generic [ref=f4e450]:
+                      - heading [level=3] [ref=f4e451]:
+                        - 'link "AI Engineer Agentic Track: The Complete Agent & MCP Course" [ref=f4e452] [cursor=pointer]':
+                          - /url: /course/the-complete-agentic-ai-engineering-course/
+                      - generic [aria-hidden] [ref=f4e454]: "Master AI Agents in 30 days: build 8 real-world projects with OpenAI Agents SDK, CrewAI, LangGraph, AutoGen and MCP.Rating: 4.7 out of 551510 reviews21 total hours132 lecturesIntermediate"
+                    - generic [ref=f4e456]:
+                      - generic [ref=f4e457]: "Instructors:"
+                      - text: Ed Donner, Ligency
+                  - generic [ref=f4e458]:
+                    - list [ref=f4e460]:
+                      - listitem [ref=f4e461]:
+                        - generic [ref=f4e462]: Bestseller
+                      - listitem [ref=f4e464]:
+                        - generic [ref=f4e466]:
+                          - generic [ref=f4e467]: "Rating: 4.7 out of 5"
+                          - generic [aria-hidden] [ref=f4e468]: "4.7"
+                      - listitem [ref=f4e474]:
+                        - generic [ref=f4e475]: 51,510 ratings
+                    - generic [ref=f4e476]:
+                      - generic [ref=f4e477]: Error loading price
+                      - generic [ref=f4e483]:
+                        - button "Add to cart" [ref=f4e484] [cursor=pointer]
+                        - status [ref=f4e485]
+              - 'group "AI FDE: The Forward Deployed Engineer & Agentic AI Architect" [ref=f4e486]':
+                - generic [ref=f4e489]:
+                  - generic [ref=f4e492]:
+                    - generic [ref=f4e493]:
+                      - heading [level=3] [ref=f4e494]:
+                        - 'link "AI FDE: The Forward Deployed Engineer & Agentic AI Architect" [ref=f4e495] [cursor=pointer]':
+                          - /url: /course/ai-fde-forward-deployed-engineer-agentic-ai-architect/
+                      - generic [aria-hidden] [ref=f4e497]: "The complete roadmap to FDE and AI Architect with Agent Harness Engineering, LangGraph, ADLC, MCP, AWS AgentCore, EvalsRating: 4.8 out of 51292 reviews21.5 total hours124 lecturesAll Levels"
+                    - generic [ref=f4e499]:
+                      - generic [ref=f4e500]: "Instructor:"
+                      - text: Ed Donner
+                  - generic [ref=f4e501]:
+                    - list [ref=f4e503]:
+                      - listitem [ref=f4e504]:
+                        - generic [ref=f4e505]: Hot & New
+                      - listitem [ref=f4e507]:
+                        - generic [ref=f4e509]:
+                          - generic [ref=f4e510]: "Rating: 4.8 out of 5"
+                          - generic [aria-hidden] [ref=f4e511]: "4.8"
+                      - listitem [ref=f4e517]:
+                        - generic [ref=f4e518]: 1,292 ratings
+                    - generic [ref=f4e519]:
+                      - generic [ref=f4e520]: Error loading price
+                      - generic [ref=f4e526]:
+                        - button "Add to cart" [ref=f4e527] [cursor=pointer]
+                        - status [ref=f4e528]
+              - group [aria-hidden] [ref=f4e529]:
+                - generic [ref=f4e532]:
+                  - generic [ref=f4e535]:
+                    - generic [ref=f4e536]:
+                      - heading [level=3] [ref=f4e537]:
+                        - link [ref=f4e538] [cursor=pointer]:
+                          - /url: /course/llm-engineering-master-ai-and-large-language-models/
+                          - generic [ref=f4e539]: "AI Engineer Core Track: LLM Engineering, RAG, QLoRA, Agents"
+                      - generic [aria-hidden] [ref=f4e540]: "Become an LLM Engineer in 8 weeks: Build and deploy 8 LLM apps, mastering Generative AI, RAG, LoRA and AI Agents.Rating: 4.7 out of 545089 reviews33.5 total hours210 lecturesAll Levels"
+                    - generic [ref=f4e542]:
+                      - generic [ref=f4e543]: "Instructors:"
+                      - text: Ligency , Ed Donner
+                  - generic [ref=f4e544]:
+                    - list [ref=f4e546]:
+                      - listitem [ref=f4e547]:
+                        - generic [ref=f4e548]: Bestseller
+                      - listitem [ref=f4e550]:
+                        - generic [ref=f4e552]:
+                          - generic [ref=f4e553]: "Rating: 4.7 out of 5"
+                          - generic [aria-hidden] [ref=f4e554]: "4.7"
+                      - listitem [ref=f4e560]:
+                        - generic [ref=f4e561]: 45,089 ratings
+                    - generic [ref=f4e562]:
+                      - generic [ref=f4e563]: Error loading price
+                      - generic [ref=f4e569]:
+                        - button [ref=f4e570] [cursor=pointer]: Add to cart
+                        - status [ref=f4e571]
+              - group [aria-hidden] [ref=f4e572]:
+                - generic [ref=f4e575]:
+                  - generic [ref=f4e578]:
+                    - generic [ref=f4e579]:
+                      - heading [level=3] [ref=f4e580]:
+                        - link [ref=f4e581] [cursor=pointer]:
+                          - /url: /course/100-days-of-code/
+                          - generic [ref=f4e582]: "100 Days of Code™: The Complete Python Pro Bootcamp"
+                      - generic [aria-hidden] [ref=f4e583]: "Master Python by building 100 projects in 100 days. Learn data science, automation, build websites, games and apps!Rating: 4.7 out of 5439921 reviews57 total hours604 lecturesAll Levels"
+                    - generic [ref=f4e585]:
+                      - generic [ref=f4e586]: "Instructor:"
+                      - text: Dr. Angela Yu, Developer and Lead Instructor
+                  - generic [ref=f4e587]:
+                    - list [ref=f4e589]:
+                      - listitem [ref=f4e590]:
+                        - generic [ref=f4e591]: Bestseller
+                      - listitem [ref=f4e593]:
+                        - generic [ref=f4e595]:
+                          - generic [ref=f4e596]: "Rating: 4.7 out of 5"
+                          - generic [aria-hidden] [ref=f4e597]: "4.7"
+                      - listitem [ref=f4e603]:
+                        - generic [ref=f4e604]: 439,921 ratings
+                    - generic [ref=f4e605]:
+                      - generic [ref=f4e606]: Error loading price
+                      - generic [ref=f4e612]:
+                        - button [ref=f4e613] [cursor=pointer]: Add to cart
+                        - status [ref=f4e614]
+              - group [aria-hidden] [ref=f4e615]:
+                - generic [ref=f4e618]:
+                  - generic [ref=f4e621]:
+                    - generic [ref=f4e622]:
+                      - heading [level=3] [ref=f4e623]:
+                        - link [ref=f4e624] [cursor=pointer]:
+                          - /url: /course/ai-coder-from-vibe-coder-to-agentic-engineer/
+                          - generic [ref=f4e625]: "AI Coder: Complete Claude Code & Coding Agents Course"
+                      - generic [aria-hidden] [ref=f4e626]: "Master Vibe Coding with AI Coding Agents: Claude Code, Copilot, Codex, Cursor, OpenCode, Antigravity + MCP, OpenClawRating: 4.5 out of 513593 reviews16.5 total hours95 lecturesAll Levels"
+                    - generic [ref=f4e628]:
+                      - generic [ref=f4e629]: "Instructors:"
+                      - text: Ligency , Ed Donner
+                  - generic [ref=f4e630]:
+                    - list [ref=f4e632]:
+                      - listitem [ref=f4e633]:
+                        - generic [ref=f4e634]: Bestseller
+                      - listitem [ref=f4e636]:
+                        - generic [ref=f4e638]:
+                          - generic [ref=f4e639]: "Rating: 4.5 out of 5"
+                          - generic [aria-hidden] [ref=f4e640]: "4.5"
+                      - listitem [ref=f4e646]:
+                        - generic [ref=f4e647]: 13,593 ratings
+                    - generic [ref=f4e648]:
+                      - generic [ref=f4e649]: Error loading price
+                      - generic [ref=f4e655]:
+                        - button [ref=f4e656] [cursor=pointer]: Add to cart
+                        - status [ref=f4e657]
+              - group [aria-hidden] [ref=f4e658]:
+                - generic [ref=f4e661]:
+                  - generic [ref=f4e664]:
+                    - generic [ref=f4e665]:
+                      - heading [level=3] [ref=f4e666]:
+                        - link [ref=f4e667] [cursor=pointer]:
+                          - /url: /course/aws-certified-solutions-architect-associate-saa-c03/
+                          - generic [ref=f4e668]: Ultimate AWS Certified Solutions Architect Associate 2026
+                      - generic [aria-hidden] [ref=f4e669]: "Full Practice Exam | Learn Cloud Computing | Pass the AWS Certified Solutions Architect Associate Certification SAA-C03!Rating: 4.7 out of 5300987 reviews27.5 total hours399 lecturesAll Levels"
+                    - generic [ref=f4e671]:
+                      - generic [ref=f4e672]: "Instructor:"
+                      - text: Stephane Maarek | AWS Certified Cloud Practitioner,Solutions Architect,Developer
+                  - generic [ref=f4e673]:
+                    - list [ref=f4e675]:
+                      - listitem [ref=f4e676]:
+                        - generic [ref=f4e677]: Bestseller
+                      - listitem [ref=f4e679]:
+                        - generic [ref=f4e681]:
+                          - generic [ref=f4e682]: "Rating: 4.7 out of 5"
+                          - generic [aria-hidden] [ref=f4e683]: "4.7"
+                      - listitem [ref=f4e689]:
+                        - generic [ref=f4e690]: 300,987 ratings
+                    - generic [ref=f4e691]:
+                      - generic [ref=f4e692]: Error loading price
+                      - generic [ref=f4e698]:
+                        - button [ref=f4e699] [cursor=pointer]: Add to cart
+                        - status [ref=f4e700]
+              - group [aria-hidden] [ref=f4e701]:
+                - generic [ref=f4e704]:
+                  - generic [ref=f4e707]:
+                    - generic [ref=f4e708]:
+                      - heading [level=3] [ref=f4e709]:
+                        - link [ref=f4e710] [cursor=pointer]:
+                          - /url: /course/microsoft-excel-2013-from-beginner-to-advanced-and-beyond/
+                          - generic [ref=f4e711]: Microsoft Excel - Excel from Beginner to Advanced 2026
+                      - generic [aria-hidden] [ref=f4e712]: "All-in-One Excel Training: Transform Your Skills with Hands-On Projects and Real-World Applications! - 2026Rating: 4.7 out of 5547871 reviews23 total hours357 lecturesAll Levels"
+                    - generic [ref=f4e714]:
+                      - generic [ref=f4e715]: "Instructors:"
+                      - text: Kyle Pew • 2,000,000+ Students, Office Newb
+                  - generic [ref=f4e716]:
+                    - list [ref=f4e718]:
+                      - listitem [ref=f4e719]:
+                        - generic [ref=f4e720]: Bestseller
+                      - listitem [ref=f4e722]:
+                        - generic [ref=f4e724]:
+                          - generic [ref=f4e725]: "Rating: 4.7 out of 5"
+                          - generic [aria-hidden] [ref=f4e726]: "4.7"
+                      - listitem [ref=f4e732]:
+                        - generic [ref=f4e733]: 547,871 ratings
+                    - generic [ref=f4e734]:
+                      - generic [ref=f4e735]: Error loading price
+                      - generic [ref=f4e741]:
+                        - button [ref=f4e742] [cursor=pointer]: Add to cart
+                        - status [ref=f4e743]
+              - group [aria-hidden] [ref=f4e744]:
+                - generic [ref=f4e747]:
+                  - generic [ref=f4e750]:
+                    - generic [ref=f4e751]:
+                      - heading [level=3] [ref=f4e752]:
+                        - link [ref=f4e753] [cursor=pointer]:
+                          - /url: /course/securityplus/
+                          - generic [ref=f4e754]: CompTIA Security+ (SY0-701) Complete Course & Practice Exam
+                      - generic [aria-hidden] [ref=f4e755]: "CompTIA Security+ (SY0-701) Bootcamp - Your preparation for the world's best cybersecurity certification!Rating: 4.7 out of 5125211 reviews31 total hours265 lecturesAll Levels"
+                    - generic [ref=f4e757]:
+                      - generic [ref=f4e758]: "Instructors:"
+                      - text: Jason Dion • 3 Million+ Enrollments Worldwide, Dion Training Solutions • ATO for ITIL & PRINCE2, Dion Training Solutions • ATO for ITIL & PRINCE2, Dion Training Solutions, Jason Dion • 2.8 Million+ Enrollments Worldwide
+                  - generic [ref=f4e759]:
+                    - list [ref=f4e761]:
+                      - listitem [ref=f4e762]:
+                        - generic [ref=f4e763]: Bestseller
+                      - listitem [ref=f4e765]:
+                        - generic [ref=f4e767]:
+                          - generic [ref=f4e768]: "Rating: 4.7 out of 5"
+                          - generic [aria-hidden] [ref=f4e769]: "4.7"
+                      - listitem [ref=f4e775]:
+                        - generic [ref=f4e776]: 125,211 ratings
+                    - generic [ref=f4e777]:
+                      - generic [ref=f4e778]: Error loading price
+                      - generic [ref=f4e784]:
+                        - button [ref=f4e785] [cursor=pointer]: Add to cart
+                        - status [ref=f4e786]
+              - group [aria-hidden] [ref=f4e787]:
+                - generic [ref=f4e790]:
+                  - generic [ref=f4e793]:
+                    - generic [ref=f4e794]:
+                      - heading [level=3] [ref=f4e795]:
+                        - link [ref=f4e796] [cursor=pointer]:
+                          - /url: /course/aws-ai-practitioner-certified/
+                          - generic [ref=f4e797]: "[NEW] Ultimate AWS Certified AI Practitioner AIF-C01"
+                      - generic [aria-hidden] [ref=f4e798]: "Practice Exam included + explanations | Learn Artificial Intelligence | Pass the AWS AI Practitioner AIF-C01 exam!Rating: 4.7 out of 554692 reviews10 total hours147 lecturesBeginner"
+                    - generic [ref=f4e800]:
+                      - generic [ref=f4e801]: "Instructor:"
+                      - text: Stephane Maarek | AWS Certified Cloud Practitioner,Solutions Architect,Developer
+                  - generic [ref=f4e802]:
+                    - list [ref=f4e804]:
+                      - listitem [ref=f4e805]:
+                        - generic [ref=f4e806]: Bestseller
+                      - listitem [ref=f4e808]:
+                        - generic [ref=f4e810]:
+                          - generic [ref=f4e811]: "Rating: 4.7 out of 5"
+                          - generic [aria-hidden] [ref=f4e812]: "4.7"
+                      - listitem [ref=f4e818]:
+                        - generic [ref=f4e819]: 54,692 ratings
+                    - generic [ref=f4e820]:
+                      - generic [ref=f4e821]: Error loading price
+                      - generic [ref=f4e827]:
+                        - button [ref=f4e828] [cursor=pointer]: Add to cart
+                        - status [ref=f4e829]
+              - group [aria-hidden] [ref=f4e830]:
+                - generic [ref=f4e833]:
+                  - generic [ref=f4e836]:
+                    - generic [ref=f4e837]:
+                      - heading [level=3] [ref=f4e838]:
+                        - link [ref=f4e839] [cursor=pointer]:
+                          - /url: /course/certified-claude-architect-masterclass-2026/
+                          - generic [ref=f4e840]: Claude Certified Architect (CCAR-F) - 2026 Exam Prep
+                      - generic [aria-hidden] [ref=f4e841]: "Complete CCAR-F (Previously CCA-F) certification prep: all 5 domains - agentic architecture & orchestration, and moreRating: 4.3 out of 54481 reviews15 total hours136 lecturesAll Levels"
+                    - generic [ref=f4e843]:
+                      - generic [ref=f4e844]: "Instructors:"
+                      - text: Jacob Bushong, CertMasterClass LLC
+                  - generic [ref=f4e845]:
+                    - list [ref=f4e847]:
+                      - listitem [ref=f4e848]:
+                        - generic [ref=f4e849]: Bestseller
+                      - listitem [ref=f4e851]:
+                        - generic [ref=f4e853]:
+                          - generic [ref=f4e854]: "Rating: 4.3 out of 5"
+                          - generic [aria-hidden] [ref=f4e855]: "4.3"
+                      - listitem [ref=f4e861]:
+                        - generic [ref=f4e862]: 4,481 ratings
+                    - generic [ref=f4e863]:
+                      - generic [ref=f4e864]: Error loading price
+                      - generic [ref=f4e870]:
+                        - button [ref=f4e871] [cursor=pointer]: Add to cart
+                        - status [ref=f4e872]
+              - group [aria-hidden] [ref=f4e873]:
+                - generic [ref=f4e876]:
+                  - generic [ref=f4e879]:
+                    - generic [ref=f4e880]:
+                      - heading [level=3] [ref=f4e881]:
+                        - link [ref=f4e882] [cursor=pointer]:
+                          - /url: /course/aws-certified-cloud-practitioner-new/
+                          - generic [ref=f4e883]: "[NEW] Ultimate AWS Certified Cloud Practitioner CLF-C02 2026"
+                      - generic [aria-hidden] [ref=f4e884]: "Full Practice Exam included + explanations | Learn Cloud Computing | Pass the AWS Cloud Practitioner CLF-C02 exam!Rating: 4.7 out of 5297841 reviews14.5 total hours277 lecturesBeginner"
+                    - generic [ref=f4e886]:
+                      - generic [ref=f4e887]: "Instructor:"
+                      - text: Stephane Maarek | AWS Certified Cloud Practitioner,Solutions Architect,Developer
+                  - generic [ref=f4e888]:
+                    - list [ref=f4e890]:
+                      - listitem [ref=f4e891]:
+                        - generic [ref=f4e892]: Bestseller
+                      - listitem [ref=f4e894]:
+                        - generic [ref=f4e896]:
+                          - generic [ref=f4e897]: "Rating: 4.7 out of 5"
+                          - generic [aria-hidden] [ref=f4e898]: "4.7"
+                      - listitem [ref=f4e904]:
+                        - generic [ref=f4e905]: 297,841 ratings
+                    - generic [ref=f4e906]:
+                      - generic [ref=f4e907]: Error loading price
+                      - generic [ref=f4e913]:
+                        - button [ref=f4e914] [cursor=pointer]: Add to cart
+                        - status [ref=f4e915]
+              - group [aria-hidden] [ref=f4e916]:
+                - generic [ref=f4e919]:
+                  - generic [ref=f4e922]:
+                    - generic [ref=f4e923]:
+                      - heading [level=3] [ref=f4e924]:
+                        - link [ref=f4e925] [cursor=pointer]:
+                          - /url: /course/complete-ai-guide/
+                          - generic [ref=f4e926]: "The Complete AI Guide: Learn ChatGPT, Claude & Generative AI"
+                      - generic [aria-hidden] [ref=f4e927]: "50+ Generative AI Tools to 10x Business, Productivity, Creativity | ChatGPT, Artificial Intelligence, Prompt EngineeringRating: 4.5 out of 565117 reviews43.5 total hours551 lecturesAll Levels"
+                    - generic [ref=f4e929]:
+                      - generic [ref=f4e930]: "Instructors:"
+                      - text: Julian Melanson, Benza Maman, Leap Year Learning
+                  - generic [ref=f4e931]:
+                    - list [ref=f4e933]:
+                      - listitem [ref=f4e934]:
+                        - generic [ref=f4e935]: Bestseller
+                      - listitem [ref=f4e937]:
+                        - generic [ref=f4e939]:
+                          - generic [ref=f4e940]: "Rating: 4.5 out of 5"
+                          - generic [aria-hidden] [ref=f4e941]: "4.5"
+                      - listitem [ref=f4e947]:
+                        - generic [ref=f4e948]: 65,117 ratings
+                    - generic [ref=f4e949]:
+                      - generic [ref=f4e950]: Error loading price
+                      - generic [ref=f4e956]:
+                        - button [ref=f4e957] [cursor=pointer]: Add to cart
+                        - status [ref=f4e958]
+              - group [aria-hidden] [ref=f4e959]:
+                - generic [ref=f4e962]:
+                  - generic [ref=f4e965]:
+                    - generic [ref=f4e966]:
+                      - heading [level=3] [ref=f4e967]:
+                        - link [ref=f4e968] [cursor=pointer]:
+                          - /url: /course/the-ai-engineer-course-complete-ai-engineer-bootcamp/
+                          - generic [ref=f4e969]: "The AI Engineer Course 2026: Complete AI Engineer Bootcamp"
+                      - generic [aria-hidden] [ref=f4e970]: "Complete AI Engineer Training: Python, NLP, Transformers, LLMs, LangChain, Hugging Face, APIsRating: 4.6 out of 526917 reviews30 total hours448 lecturesAll Levels"
+                    - generic [ref=f4e972]:
+                      - generic [ref=f4e973]: "Instructor:"
+                      - text: 365 Careers
+                  - generic [ref=f4e974]:
+                    - list [ref=f4e976]:
+                      - listitem [ref=f4e977]:
+                        - generic [ref=f4e978]: Bestseller
+                      - listitem [ref=f4e980]:
+                        - generic [ref=f4e982]:
+                          - generic [ref=f4e983]: "Rating: 4.6 out of 5"
+                          - generic [aria-hidden] [ref=f4e984]: "4.6"
+                      - listitem [ref=f4e990]:
+                        - generic [ref=f4e991]: 26,917 ratings
+                    - generic [ref=f4e992]:
+                      - generic [ref=f4e993]: Error loading price
+                      - generic [ref=f4e999]:
+                        - button [ref=f4e1000] [cursor=pointer]: Add to cart
+                        - status [ref=f4e1001]
+              - group [aria-hidden] [ref=f4e1002]:
+                - generic [ref=f4e1005]:
+                  - generic [ref=f4e1008]:
+                    - generic [ref=f4e1009]:
+                      - heading [level=3] [ref=f4e1010]:
+                        - link [ref=f4e1011] [cursor=pointer]:
+                          - /url: /course/capm-certification-training-prep-course/
+                          - generic [ref=f4e1012]: CAPM Exam Prep Course 25 PDU's for Current Exam
+                      - generic [aria-hidden] [ref=f4e1013]: "Get your CAPM Certification with this Authorized Exam Prep CourseRating: 4.7 out of 523711 reviews26 total hours244 lecturesAll Levels"
+                    - generic [ref=f4e1015]:
+                      - generic [ref=f4e1016]: "Instructor:"
+                      - text: TIA Training, Andrew Ramdayal
+                  - generic [ref=f4e1017]:
+                    - list [ref=f4e1019]:
+                      - listitem [ref=f4e1020]:
+                        - generic [ref=f4e1021]: Bestseller
+                      - listitem [ref=f4e1023]:
+                        - generic [ref=f4e1025]:
+                          - generic [ref=f4e1026]: "Rating: 4.7 out of 5"
+                          - generic [aria-hidden] [ref=f4e1027]: "4.7"
+                      - listitem [ref=f4e1033]:
+                        - generic [ref=f4e1034]: 23,711 ratings
+                    - generic [ref=f4e1035]:
+                      - generic [ref=f4e1036]: Error loading price
+                      - generic [ref=f4e1042]:
+                        - button [ref=f4e1043] [cursor=pointer]: Add to cart
+                        - status [ref=f4e1044]
+              - group [aria-hidden] [ref=f4e1045]:
+                - generic [ref=f4e1048]:
+                  - generic [ref=f4e1051]:
+                    - generic [ref=f4e1052]:
+                      - heading [level=3] [ref=f4e1053]:
+                        - link [ref=f4e1054] [cursor=pointer]:
+                          - /url: /course/ai-agent-engineering/
+                          - generic [ref=f4e1055]: "AI Agent Engineering: Build Production-Ready AI Agents"
+                      - generic [aria-hidden] [ref=f4e1056]: "Master AI Agents, RAG, MCP, Memory, Planning, Multi-Agent Systems, LangGraph, CrewAI and LangChain in 21 DaysRating: 4.7 out of 51682 reviews37 total hours292 lecturesAll Levels"
+                    - generic [ref=f4e1058]:
+                      - generic [ref=f4e1059]: "Instructor:"
+                      - text: Pankaj Shukla
+                  - generic [ref=f4e1060]:
+                    - list [ref=f4e1062]:
+                      - listitem [ref=f4e1063]:
+                        - generic [ref=f4e1064]: Bestseller
+                      - listitem [ref=f4e1066]:
+                        - generic [ref=f4e1068]:
+                          - generic [ref=f4e1069]: "Rating: 4.7 out of 5"
+                          - generic [aria-hidden] [ref=f4e1070]: "4.7"
+                      - listitem [ref=f4e1076]:
+                        - generic [ref=f4e1077]: 1,682 ratings
+                    - generic [ref=f4e1078]:
+                      - generic [ref=f4e1079]: Error loading price
+                      - generic [ref=f4e1085]:
+                        - button [ref=f4e1086] [cursor=pointer]: Add to cart
+                        - status [ref=f4e1087]
+              - group [aria-hidden] [ref=f4e1088]:
+                - generic [ref=f4e1091]:
+                  - generic [ref=f4e1094]:
+                    - generic [ref=f4e1095]:
+                      - heading [level=3] [ref=f4e1096]:
+                        - link [ref=f4e1097] [cursor=pointer]:
+                          - /url: /course/microsoft-power-bi-up-running-with-power-bi-desktop/
+                          - generic [ref=f4e1098]: Microsoft Power BI Desktop for Business Intelligence
+                      - generic [aria-hidden] [ref=f4e1099]: "Master Power BI Desktop for data prep, data analysis, data visualization & dashboard design w/ top Power BI instructors!Rating: 4.6 out of 5198801 reviews17 total hours200 lecturesAll Levels"
+                    - generic [ref=f4e1101]:
+                      - generic [ref=f4e1102]: "Instructors:"
+                      - text: Maven Analytics (2,000,000+ Learners), Chris Dutton, Aaron Parry
+                  - generic [ref=f4e1103]:
+                    - list [ref=f4e1105]:
+                      - listitem [ref=f4e1106]:
+                        - generic [ref=f4e1107]: Bestseller
+                      - listitem [ref=f4e1109]:
+                        - generic [ref=f4e1111]:
+                          - generic [ref=f4e1112]: "Rating: 4.6 out of 5"
+                          - generic [aria-hidden] [ref=f4e1113]: "4.6"
+                      - listitem [ref=f4e1119]:
+                        - generic [ref=f4e1120]: 198,801 ratings
+                    - generic [ref=f4e1121]:
+                      - generic [ref=f4e1122]: Error loading price
+                      - generic [ref=f4e1128]:
+                        - button [ref=f4e1129] [cursor=pointer]: Add to cart
+                        - status [ref=f4e1130]
+            - button [ref=f4e1131] [cursor=pointer]:
+              - img "Next" [ref=f4e1132]
+        - generic [ref=f4e1139]:
+          - generic [ref=f4e1140]:
+            - generic [ref=f4e1141]:
+              - heading "Reimagine your career for the AI era" [level=2] [ref=f4e1142]
+              - paragraph [ref=f4e1143]: Future-proof your skills in the latest business and technology topics. Learn from real-world experts, right when you need it most.
+            - list [ref=f4e1144]:
+              - listitem [ref=f4e1145]:
+                - generic [ref=f4e1149]: 28,000+ top-rated courses
+              - listitem [ref=f4e1150]:
+                - generic [ref=f4e1154]: Tech, Business, Design, and more
+              - listitem [ref=f4e1155]:
+                - generic [ref=f4e1159]: AI-assisted learning
+              - listitem [ref=f4e1160]:
+                - generic [ref=f4e1164]: Certification prep for AWS, Microsoft, and more
+            - generic [ref=f4e1165]:
+              - link "Learn more" [ref=f4e1166] [cursor=pointer]:
+                - /url: /pricing/
+              - generic [ref=f4e1168]: Starting at R$19.00/month
+          - img "Role play interface showing AI conversation practice" [ref=f4e1172]
+        - generic [ref=f4e1174]:
+          - generic [ref=f4e1175]:
+            - heading "Skills to transform your career and life" [level=2] [ref=f4e1176]
+            - generic [ref=f4e1177]: From critical skills to technical topics, Udemy supports your professional development.
+          - paragraph [ref=f4e1181]
+        - generic [ref=f4e1229]:
+          - heading [level=2] [ref=f4e1230]:
+            - text: Udemy is trusted by over 17,000 companies and millions of learners around the world
+            - link "Try Udemy Business" [ref=f4e1231] [cursor=pointer]:
+              - /url: https://business.udemy.com/?ref=ufb_logo
+          - list [ref=f4e1235]:
+            - listitem [ref=f4e1236]:
+              - img "Volkswagen logo" [ref=f4e1237]
+            - listitem [ref=f4e1238]:
+              - img "Samsung logo" [ref=f4e1239]
+            - listitem [ref=f4e1240]:
+              - img "Cisco logo" [ref=f4e1241]
+            - listitem [ref=f4e1242]:
+              - img "Vimeo logo" [ref=f4e1243]
+            - listitem [ref=f4e1244]:
+              - img "Procter & Gamble logo" [ref=f4e1245]
+            - listitem [ref=f4e1246]:
+              - img "Hewlett Packard Enterprise logo" [ref=f4e1247]
+            - listitem [ref=f4e1248]:
+              - img "Citi logo" [ref=f4e1249]
+            - listitem [ref=f4e1250]:
+              - img "Ericsson logo" [ref=f4e1251]
+        - region "Join others transforming their lives through learning" [ref=f4e1255]:
+          - heading "Join others transforming their lives through learning" [level=2] [ref=f4e1258]
+          - region "Carousel" [ref=f4e1259]:
+            - generic [ref=f4e1260]: Items 1, 2, 3, 4 of 4
+            - generic [ref=f4e1261]:
+              - generic [ref=f4e1264]:
+                - generic [ref=f4e1265]:
+                  - paragraph [ref=f4e1269]: The course did a great job explaining AI - from development through application. I appreciated the varying perspectives presented, which were helpful in understanding how to use AI responsibly as a tool in my profession, rather than a novelty.
+                  - generic [ref=f4e1272]:
+                    - generic [ref=f4e1273]: Cris M.
+                    - paragraph [ref=f4e1276]: Google AI Essentials graduate
+                - link [ref=f4e1278] [cursor=pointer]:
+                  - /url: https://www.udemy.com/partner/google/learn-ai/
+                  - paragraph [ref=f4e1280]: View AI courses
+              - generic [ref=f4e1285]:
+                - generic [ref=f4e1286]:
+                  - paragraph [ref=f4e1290]: Udemy was truly a game-changer and a great guide for me as we brought Dimensional to life.
+                  - generic [ref=f4e1293]:
+                    - generic [ref=f4e1294]: Alvin Lim
+                    - paragraph [ref=f4e1297]: Technical Co-Founder, CTO at Dimensional
+                - link [ref=f4e1299] [cursor=pointer]:
+                  - /url: https://www.udemy.com/course/ios-13-app-development-bootcamp/
+                  - paragraph [ref=f4e1301]: View this iOS & Swift course
+              - generic [ref=f4e1306]:
+                - generic [ref=f4e1307]:
+                  - paragraph [ref=f4e1311]: Udemy gives you the ability to be persistent. I learned exactly what I needed to know in the real world. It helped me sell myself to get a new role.
+                  - generic [ref=f4e1314]:
+                    - generic [ref=f4e1315]: William A. Wachlin
+                    - paragraph [ref=f4e1318]: Partner Account Manager at Amazon Web Services
+                - link [ref=f4e1320] [cursor=pointer]:
+                  - /url: https://www.udemy.com/course/aws-certified-developer-associate-dva-c01/
+                  - paragraph [ref=f4e1322]: View this AWS course
+              - generic [ref=f4e1327]:
+                - generic [ref=f4e1328]:
+                  - paragraph [ref=f4e1332]: I loved the course about AI Studio. I was not aware of this Google tool, but immediately after taking the course, I put it to use. Within 24 hours, I had a functional, highly useful app for my law firm.
+                  - generic [ref=f4e1335]:
+                    - generic [ref=f4e1336]: Ben C.
+                    - paragraph [ref=f4e1339]: Google AI Professional Certificate graduate
+                - link [ref=f4e1341] [cursor=pointer]:
+                  - /url: https://www.udemy.com/partner/google/ai-professional-certificate-learning-path/
+                  - paragraph [ref=f4e1343]: View Google AI Certificates
+            - button [ref=f4e1346] [cursor=pointer]:
+              - img "Next" [ref=f4e1347]
+          - link "View all stories" [ref=f4e1349] [cursor=pointer]:
+            - /url: https://about.udemy.com/stories/
+        - generic [ref=f4e1353]:
+          - generic [ref=f4e1354]:
+            - generic [ref=f4e1355]:
+              - heading "Get certified and get ahead in your career" [level=2] [ref=f4e1356]
+              - paragraph [ref=f4e1357]: Prep for certifications with comprehensive courses, practice tests, and special offers on exam vouchers.
+            - link "Explore certifications and vouchers" [ref=f4e1358] [cursor=pointer]:
+              - /url: /browse/certification/
+          - generic [ref=f4e1362]:
+            - generic [ref=f4e1366]:
+              - img "CompTIA certification badges including A+, Security+, Network+, Linux+, PenTest+, and IT Fundamentals certifications available on Udemy" [ref=f4e1368]
+              - generic [ref=f4e1369]:
+                - heading [level=3] [ref=f4e1371]:
+                  - link "CompTIA" [ref=f4e1372] [cursor=pointer]:
+                    - /url: /browse/certification/comptia-certifications/
+                - paragraph [ref=f4e1375]: Cloud, Networking, Cybersecurity
+            - generic [ref=f4e1379]:
+              - img "Amazon Web Services (AWS) certification badges including Solutions Architect Associate and Professional, SysOps Administrator, DevOps Engineer, Security Specialty, and Data Analytics Specialty certifications" [ref=f4e1381]
+              - generic [ref=f4e1382]:
+                - heading [level=3] [ref=f4e1384]:
+                  - link "AWS" [ref=f4e1385] [cursor=pointer]:
+                    - /url: /browse/certification/aws-certifications/
+                - paragraph [ref=f4e1388]: Cloud, AI, Coding, Networking
+            - generic [ref=f4e1392]:
+              - img "Project Management Institute (PMI) certification badges including PMP, CAPM, PMI-ACP, PMI-PBA, PMI-RMP, and PgMP professional certifications" [ref=f4e1394]
+              - generic [ref=f4e1395]:
+                - heading [level=3] [ref=f4e1397]:
+                  - link "PMI" [ref=f4e1398] [cursor=pointer]:
+                    - /url: /browse/certification/project-management-institute-pmi-certifications/
+                - paragraph [ref=f4e1401]: Project & Program Management
+        - generic [ref=f4e1402]:
+          - heading "Ready to reimagine your career?" [level=2] [ref=f4e1403]
+          - generic [ref=f4e1404]: Get the skills and real-world experience employers want with Career Accelerators.
+          - generic [ref=f4e1405]:
+            - generic [ref=f4e1406]:
+              - generic [ref=f4e1409]:
+                - heading [level=3] [ref=f4e1414]:
+                  - link "Cloud Engineer" [ref=f4e1415] [cursor=pointer]:
+                    - /url: /career/cloud-engineer/
+                - list [ref=f4e1419]:
+                  - listitem [ref=f4e1420]:
+                    - generic [ref=f4e1422]:
+                      - generic [ref=f4e1423]: "Rating: 4.7 out of 5"
+                      - generic [aria-hidden] [ref=f4e1424]: "4.7"
+                  - listitem [ref=f4e1430]:
+                    - generic [ref=f4e1431]: 338K ratings
+                  - listitem [ref=f4e1432]:
+                    - generic [ref=f4e1433]: 28.8 total hours
+              - generic [ref=f4e1436]:
+                - heading [level=3] [ref=f4e1441]:
+                  - link "Data Scientist" [ref=f4e1442] [cursor=pointer]:
+                    - /url: /career/data-scientist/
+                - list [ref=f4e1446]:
+                  - listitem [ref=f4e1447]:
+                    - generic [ref=f4e1449]:
+                      - generic [ref=f4e1450]: "Rating: 4.5 out of 5"
+                      - generic [aria-hidden] [ref=f4e1451]: "4.5"
+                  - listitem [ref=f4e1457]:
+                    - generic [ref=f4e1458]: 229K ratings
+                  - listitem [ref=f4e1459]:
+                    - generic [ref=f4e1460]: 47.5 total hours
+              - generic [ref=f4e1463]:
+                - heading [level=3] [ref=f4e1468]:
+                  - link "Digital Marketer" [ref=f4e1469] [cursor=pointer]:
+                    - /url: /career/digital-marketer/
+                - list [ref=f4e1473]:
+                  - listitem [ref=f4e1474]:
+                    - generic [ref=f4e1476]:
+                      - generic [ref=f4e1477]: "Rating: 4.6 out of 5"
+                      - generic [aria-hidden] [ref=f4e1478]: "4.6"
+                  - listitem [ref=f4e1484]:
+                    - generic [ref=f4e1485]: 4.2K ratings
+                  - listitem [ref=f4e1486]:
+                    - generic [ref=f4e1487]: 28.4 total hours
+            - link "All Career Accelerators" [ref=f4e1488] [cursor=pointer]:
+              - /url: https://www.udemy.com/career-accelerators/
+        - generic [ref=f4e1496]:
+          - heading "Popular Skills" [level=2] [ref=f4e1498]
+          - link "Show all trending skills" [ref=f4e1505] [cursor=pointer]:
+            - /url: /featured-topics/
+    - contentinfo [ref=f4e1512]:
+      - generic [ref=f4e1513]:
+        - generic [ref=f4e1515]:
+          - text: Top companies choose
+          - link "Udemy Business" [ref=f4e1516] [cursor=pointer]:
+            - /url: /udemy-business/request-demo-mx/?ref=ufb_header_demo&locale=en_US
+          - text: to build in-demand career skills.
+        - generic [ref=f4e1517]:
+          - img "Nasdaq" [ref=f4e1518]
+          - img "Volkswagen" [ref=f4e1519]
+          - img "NetApp" [ref=f4e1520]
+          - img "Eventbrite" [ref=f4e1521]
+      - generic [ref=f4e1524]:
+        - heading "Explore top skills and certifications" [level=2] [ref=f4e1526]
+        - generic [ref=f4e1527]:
+          - generic [ref=f4e1529]:
+            - heading "In-demand Careers" [level=2] [ref=f4e1530]
+            - list [ref=f4e1531]:
+              - listitem [ref=f4e1532]:
+                - link "Data Scientist" [ref=f4e1533] [cursor=pointer]:
+                  - /url: /career/data-scientist/
+              - listitem [ref=f4e1534]:
+                - link "Full Stack Web Developer" [ref=f4e1535] [cursor=pointer]:
+                  - /url: /career/full-stack-web-developer/
+              - listitem [ref=f4e1536]:
+                - link "Cloud Engineer" [ref=f4e1537] [cursor=pointer]:
+                  - /url: /career/cloud-engineer/
+              - listitem [ref=f4e1538]:
+                - link "Project Manager" [ref=f4e1539] [cursor=pointer]:
+                  - /url: /career/project-manager/
+              - listitem [ref=f4e1540]:
+                - link "Game Developer" [ref=f4e1541] [cursor=pointer]:
+                  - /url: /career/game-developer/
+              - listitem [ref=f4e1542]:
+                - link "All Career Accelerators" [ref=f4e1543] [cursor=pointer]:
+                  - /url: /career-accelerators/
+          - generic [ref=f4e1545]:
+            - heading "Web Development" [level=2] [ref=f4e1546]
+            - list [ref=f4e1547]:
+              - listitem [ref=f4e1548]:
+                - link "Web Development" [ref=f4e1549] [cursor=pointer]:
+                  - /url: /topic/web-development/
+              - listitem [ref=f4e1550]:
+                - link "JavaScript" [ref=f4e1551] [cursor=pointer]:
+                  - /url: /topic/javascript/
+              - listitem [ref=f4e1552]:
+                - link "React JS" [ref=f4e1553] [cursor=pointer]:
+                  - /url: /topic/react/
+              - listitem [ref=f4e1554]:
+                - link "Angular" [ref=f4e1555] [cursor=pointer]:
+                  - /url: /topic/angular/
+              - listitem [ref=f4e1556]:
+                - link "Java" [ref=f4e1557] [cursor=pointer]:
+                  - /url: /topic/java/
+          - generic [ref=f4e1559]:
+            - heading "IT Certifications" [level=2] [ref=f4e1560]
+            - list [ref=f4e1561]:
+              - listitem [ref=f4e1562]:
+                - link "Amazon AWS" [ref=f4e1563] [cursor=pointer]:
+                  - /url: /topic/amazon-aws/
+              - listitem [ref=f4e1564]:
+                - link "AWS Certified Cloud Practitioner" [ref=f4e1565] [cursor=pointer]:
+                  - /url: /topic/aws-certified-cloud-practitioner/
+              - listitem [ref=f4e1566]:
+                - 'link "AZ-900: Microsoft Azure Fundamentals" [ref=f4e1567] [cursor=pointer]':
+                  - /url: /topic/microsoft-az-900/
+              - listitem [ref=f4e1568]:
+                - link "AWS Certified Solutions Architect - Associate" [ref=f4e1569] [cursor=pointer]:
+                  - /url: /topic/aws-certified-solutions-architect-associate/
+              - listitem [ref=f4e1570]:
+                - link "Kubernetes" [ref=f4e1571] [cursor=pointer]:
+                  - /url: /topic/kubernetes/
+          - generic [ref=f4e1573]:
+            - heading "Leadership" [level=2] [ref=f4e1574]
+            - list [ref=f4e1575]:
+              - listitem [ref=f4e1576]:
+                - link "Leadership" [ref=f4e1577] [cursor=pointer]:
+                  - /url: /topic/leadership/
+              - listitem [ref=f4e1578]:
+                - link "Management Skills" [ref=f4e1579] [cursor=pointer]:
+                  - /url: /topic/management-skills/
+              - listitem [ref=f4e1580]:
+                - link "Project Management" [ref=f4e1581] [cursor=pointer]:
+                  - /url: /topic/project-management/
+              - listitem [ref=f4e1582]:
+                - link "Personal Productivity" [ref=f4e1583] [cursor=pointer]:
+                  - /url: /topic/personal-productivity/
+              - listitem [ref=f4e1584]:
+                - link "Emotional Intelligence" [ref=f4e1585] [cursor=pointer]:
+                  - /url: /topic/emotional-intelligence/
+          - generic [ref=f4e1587]:
+            - heading "Certifications by Skill" [level=2] [ref=f4e1588]
+            - list [ref=f4e1589]:
+              - listitem [ref=f4e1590]:
+                - link "Cybersecurity Certification" [ref=f4e1591] [cursor=pointer]:
+                  - /url: /browse/certification/cybersecurity-certifications/
+              - listitem [ref=f4e1592]:
+                - link "Project Management Certification" [ref=f4e1593] [cursor=pointer]:
+                  - /url: /browse/certification/project-management-certifications/
+              - listitem [ref=f4e1594]:
+                - link "Cloud Certification" [ref=f4e1595] [cursor=pointer]:
+                  - /url: /browse/certification/cloud-certifications/
+              - listitem [ref=f4e1596]:
+                - link "Data Analytics Certification" [ref=f4e1597] [cursor=pointer]:
+                  - /url: /browse/certification/data-analytics-certifications/
+              - listitem [ref=f4e1598]:
+                - link "HR Management Certification" [ref=f4e1599] [cursor=pointer]:
+                  - /url: /browse/certification/hr-management-certifications/
+              - listitem [ref=f4e1600]:
+                - link "See all Certifications" [ref=f4e1601] [cursor=pointer]:
+                  - /url: /browse/certification/
+          - generic [ref=f4e1603]:
+            - heading "Data Science" [level=2] [ref=f4e1604]
+            - list [ref=f4e1605]:
+              - listitem [ref=f4e1606]:
+                - link "Data Science" [ref=f4e1607] [cursor=pointer]:
+                  - /url: /topic/data-science/
+              - listitem [ref=f4e1608]:
+                - link "Python" [ref=f4e1609] [cursor=pointer]:
+                  - /url: /topic/python/
+              - listitem [ref=f4e1610]:
+                - link "Machine Learning" [ref=f4e1611] [cursor=pointer]:
+                  - /url: /topic/machine-learning/
+              - listitem [ref=f4e1612]:
+                - link "ChatGPT" [ref=f4e1613] [cursor=pointer]:
+                  - /url: /topic/chatgpt/
+              - listitem [ref=f4e1614]:
+                - link "Deep Learning" [ref=f4e1615] [cursor=pointer]:
+                  - /url: /topic/deep-learning/
+          - generic [ref=f4e1617]:
+            - heading "Communication" [level=2] [ref=f4e1618]
+            - list [ref=f4e1619]:
+              - listitem [ref=f4e1620]:
+                - link "Communication Skills" [ref=f4e1621] [cursor=pointer]:
+                  - /url: /topic/communication-skills/
+              - listitem [ref=f4e1622]:
+                - link "Presentation Skills" [ref=f4e1623] [cursor=pointer]:
+                  - /url: /topic/presentation-skills/
+              - listitem [ref=f4e1624]:
+                - link "Public Speaking" [ref=f4e1625] [cursor=pointer]:
+                  - /url: /topic/public-speaking/
+              - listitem [ref=f4e1626]:
+                - link "Writing" [ref=f4e1627] [cursor=pointer]:
+                  - /url: /topic/writing/
+              - listitem [ref=f4e1628]:
+                - link "PowerPoint" [ref=f4e1629] [cursor=pointer]:
+                  - /url: /topic/powerpoint/
+          - generic [ref=f4e1631]:
+            - heading "Business Analytics & Intelligence" [level=2] [ref=f4e1632]
+            - list [ref=f4e1633]:
+              - listitem [ref=f4e1634]:
+                - link "Microsoft Excel" [ref=f4e1635] [cursor=pointer]:
+                  - /url: /topic/excel/
+              - listitem [ref=f4e1636]:
+                - link "SQL" [ref=f4e1637] [cursor=pointer]:
+                  - /url: /topic/sql/
+              - listitem [ref=f4e1638]:
+                - link "Microsoft Power BI" [ref=f4e1639] [cursor=pointer]:
+                  - /url: /topic/microsoft-power-bi/
+              - listitem [ref=f4e1640]:
+                - link "Data Analysis" [ref=f4e1641] [cursor=pointer]:
+                  - /url: /topic/data-analysis/
+              - listitem [ref=f4e1642]:
+                - link "Business Analysis" [ref=f4e1643] [cursor=pointer]:
+                  - /url: /topic/business-analysis/
+      - generic [ref=f4e1648]:
+        - generic [ref=f4e1650]:
+          - heading "About" [level=2] [ref=f4e1651]
+          - list [ref=f4e1652]:
+            - listitem [ref=f4e1653]:
+              - link "About us" [ref=f4e1654] [cursor=pointer]:
+                - /url: https://about.udemy.com/?locale=en-us
+            - listitem [ref=f4e1655]:
+              - link "Careers" [ref=f4e1656] [cursor=pointer]:
+                - /url: https://about.udemy.com/careers?locale=en-us
+            - listitem [ref=f4e1657]:
+              - link "Contact us" [ref=f4e1658] [cursor=pointer]:
+                - /url: https://about.udemy.com/company?locale=en-us#offices
+            - listitem [ref=f4e1659]:
+              - link "Blog" [ref=f4e1660] [cursor=pointer]:
+                - /url: https://blog.udemy.com/?ref=footer
+            - listitem [ref=f4e1661]:
+              - link "Investors" [ref=f4e1662] [cursor=pointer]:
+                - /url: https://investors.udemy.com
+            - listitem [ref=f4e1663]:
+              - link "Find more on Coursera" [ref=f4e1664] [cursor=pointer]:
+                - /url: https://www.coursera.org/
+        - generic [ref=f4e1666]:
+          - heading "Discover Udemy" [level=2] [ref=f4e1667]
+          - list [ref=f4e1668]:
+            - listitem [ref=f4e1669]:
+              - link "Get the app" [ref=f4e1670] [cursor=pointer]:
+                - /url: /mobile/
+            - listitem [ref=f4e1671]:
+              - link "Teach on Udemy" [ref=f4e1672] [cursor=pointer]:
+                - /url: /teaching/?ref=teach_footer
+            - listitem [ref=f4e1673]:
+              - link "Plans and Pricing" [ref=f4e1674] [cursor=pointer]:
+                - /url: https://www.udemy.com/pricing/?ref=footer
+            - listitem [ref=f4e1675]:
+              - link "Affiliate" [ref=f4e1676] [cursor=pointer]:
+                - /url: /affiliate/
+            - listitem [ref=f4e1677]:
+              - link "Help and Support" [ref=f4e1678] [cursor=pointer]:
+                - /url: /support/
+        - generic [ref=f4e1680]:
+          - heading "Udemy for Business" [level=2] [ref=f4e1681]
+          - list [ref=f4e1682]:
+            - listitem [ref=f4e1683]:
+              - link "Udemy Business" [ref=f4e1684] [cursor=pointer]:
+                - /url: /udemy-business/request-demo-mx/?ref=ufb_header_demo&locale=en_US
+        - generic [ref=f4e1686]:
+          - heading "Legal & Accessibility" [level=2] [ref=f4e1687]
+          - list [ref=f4e1688]:
+            - listitem [ref=f4e1689]:
+              - link "Accessibility statement" [ref=f4e1690] [cursor=pointer]:
+                - /url: https://about.udemy.com/accessibility-statement?locale=en-us
+            - listitem [ref=f4e1691]:
+              - link "Privacy policy" [ref=f4e1692] [cursor=pointer]:
+                - /url: https://www.udemy.com/terms/privacy/
+            - listitem [ref=f4e1693]:
+              - link "Sitemap" [ref=f4e1694] [cursor=pointer]:
+                - /url: /sitemap/
+            - listitem [ref=f4e1695]:
+              - link "Terms" [ref=f4e1696] [cursor=pointer]:
+                - /url: https://www.udemy.com/terms/terms-of-use/
+      - generic [ref=f4e1698]:
+        - generic [ref=f4e1699]:
+          - link [ref=f4e1701] [cursor=pointer]:
+            - /url: /
+            - img "Udemy" [ref=f4e1702]
+          - generic [ref=f4e1703]: © 2026 Udemy, Inc.
+        - list [ref=f4e1705]:
+          - listitem [ref=f4e1706]:
+            - button "Cookie settings" [ref=f4e1707] [cursor=pointer]
+        - button "English" [ref=f4e1709] [cursor=pointer]
+    - status
+  - alert [ref=f4e1713]
