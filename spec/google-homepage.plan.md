@@ -1,12 +1,12 @@
-# Plano de teste - Verificação da página inicial do Google
+# Plano de testes - Google
 
 ## Application Overview
 
-Validar, em uma sessão nova do navegador, que https://www.google.com/ abre a página inicial correta do Google e apresenta visivelmente a palavra "Google" no logotipo acessível.
+Validar a página inicial do Google e pesquisar o site da Udemy, verificando o resultado por nome e URL e abrindo o link oficial.
 
 ## Test Scenarios
 
-### 1. Verificação básica da página inicial
+### 1. Google
 
 **Seed:** `tests/Google/seed.spec.ts`
 
@@ -15,9 +15,19 @@ Validar, em uma sessão nova do navegador, que https://www.google.com/ abre a p�
 **File:** `tests/Google/google-homepage.spec.ts`
 
 **Steps:**
-  1. Inicie o teste com uma página nova, sem estado ou navegação anterior, e acesse https://www.google.com/.
-    - expect: A navegação termina sem erro e a página do Google é carregada.
-  2. Verifique se o endereço atual pertence ao domínio www.google.com.
-    - expect: O endereço atual é https://www.google.com/ (parâmetros de URL adicionais são aceitáveis).
-  3. Procure na página o logotipo com o nome acessível "Google" e verifique se está visível.
-    - expect: A palavra "Google" está visível no logotipo da página inicial.
+  1. Abra https://www.google.com/ em uma página nova.
+    - expect: A página carrega com o título Google e o logotipo acessível Google visível.
+  2. Verifique o endereço atual.
+    - expect: O endereço pertence ao domínio www.google.com.
+
+#### 1.2. Pesquisa e abre o site oficial da Udemy
+
+**File:** `tests/Google/google-search-udemy.spec.ts`
+
+**Steps:**
+  1. Acesse https://www.google.com/ e pesquise por Udemy.
+    - expect: A página de resultados da pesquisa é exibida.
+  2. Localize o resultado cujo link aponta para https://www.udemy.com/ e valide que o nome Udemy aparece no link.
+    - expect: O link do resultado aponta para www.udemy.com e seu texto inclui Udemy.
+  3. Clique no link oficial da Udemy.
+    - expect: O navegador abre o site em www.udemy.com.

@@ -1,0 +1,170 @@
+[     626ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api-2.0/contexts/me/?Config=true&request=true&me=true:0
+[     627ms] [ERROR] Failed to fetch GTM config for server-side: Error: Failed to fetch GTM config: 403 
+    at l (https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/b0d679ec5e30a2ba.js:2:458320) @ https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/abc64f572bcbf9b9.js:18
+[     627ms] [ERROR] Failed to fetch GTM config for server-side: Error: Failed to fetch GTM config: 403 
+    at l (https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/b0d679ec5e30a2ba.js:2:458320) @ https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/abc64f572bcbf9b9.js:18
+[     628ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api-2.0/contexts/me/?header=true:0
+[     637ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api-2.0/browse/aggregator/certification/navigation/:0
+[     651ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api-2.0/shopping-carts/me/:0
+[     652ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api-2.0/contexts/me/?footer=true&locale=en_US:0
+[     654ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api/2024-01/graphql/:0
+[     654ms] [ERROR] @udemy-v2/graphql request failed with non-OK status {query: 
+    query GetNavList($name: NavListName = MAIN) {…rl
+          }
+        }
+      }
+    }
+  }
+}
+    , variables: undefined, url: /api/2024-01/graphql/, requestHeaders: Object, status: 403} @ https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/abc64f572bcbf9b9.js:18
+[     656ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api-2.0/notices/me/?type=lohp_hero_banner:0
+[     656ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api/2024-01/graphql/:0
+[     657ms] [ERROR] @udemy-v2/graphql request failed with non-OK status {query: 
+    query FeatureVariantAssignments($featureCodes…t
+    experimentIds
+    isLocalDefault
+  }
+}
+    , variables: Object, url: /api/2024-01/graphql/, requestHeaders: Object, status: 403} @ https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/abc64f572bcbf9b9.js:18
+[     657ms] [ERROR] There was an error fetching feature variant assignments Error: Request failed with status code 403 while running query: 
+    query FeatureVariantAssignments($featureCodes: [String!]!, $realtimeAttributes: FeatureVariantAssignmentFilters) {
+  featureVariantAssignmentsByFeatureCodes(
+    featureCodes: $featureCodes
+    filters: $realtimeAttributes
+  ) {
+    featureCode
+    configuration
+    isInExperiment
+    experimentIds
+    isLocalDefault
+  }
+}
+    
+    at https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/e72998b20c4ca0a3.js:2:26826
+    at async e (https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/15bf6cab2abeb338.js:62:12637) @ https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/abc64f572bcbf9b9.js:18
+[     657ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api/2024-01/graphql/:0
+[     657ms] [ERROR] @udemy-v2/graphql request failed with non-OK status {query: 
+    query FeatureVariantAssignments($featureCodes…t
+    experimentIds
+    isLocalDefault
+  }
+}
+    , variables: Object, url: /api/2024-01/graphql/, requestHeaders: Object, status: 403} @ https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/abc64f572bcbf9b9.js:18
+[     657ms] [ERROR] There was an error fetching feature variant assignments Error: Request failed with status code 403 while running query: 
+    query FeatureVariantAssignments($featureCodes: [String!]!, $realtimeAttributes: FeatureVariantAssignmentFilters) {
+  featureVariantAssignmentsByFeatureCodes(
+    featureCodes: $featureCodes
+    filters: $realtimeAttributes
+  ) {
+    featureCode
+    configuration
+    isInExperiment
+    experimentIds
+    isLocalDefault
+  }
+}
+    
+    at https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/e72998b20c4ca0a3.js:2:26826
+    at async e (https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/15bf6cab2abeb338.js:62:12637) @ https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/abc64f572bcbf9b9.js:18
+[     658ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api/2024-01/graphql/:0
+[     658ms] [ERROR] @udemy-v2/graphql request failed with non-OK status {query: 
+    query GetRecommendations($params: Recommendat…  type
+  title
+  description
+  relativeUrl
+}
+    , variables: Object, url: /api/2024-01/graphql/, requestHeaders: Object, status: 403} @ https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/abc64f572bcbf9b9.js:18
+[     658ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api/2024-01/graphql/:0
+[     658ms] [ERROR] @udemy-v2/graphql request failed with non-OK status {query: 
+    query GetAllAvailableConsumerSubscriptionPlan…     maximumLicenseCount
+      }
+    }
+  }
+}
+    , variables: Object, url: /api/2024-01/graphql/, requestHeaders: Object, status: 403} @ https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/abc64f572bcbf9b9.js:18
+[     659ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api/2024-01/graphql/:0
+[     659ms] [ERROR] @udemy-v2/graphql request failed with non-OK status {query: 
+    query FeatureVariantAssignments($featureCodes…t
+    experimentIds
+    isLocalDefault
+  }
+}
+    , variables: Object, url: /api/2024-01/graphql/, requestHeaders: Object, status: 403} @ https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/abc64f572bcbf9b9.js:18
+[     659ms] [ERROR] There was an error fetching feature variant assignments Error: Request failed with status code 403 while running query: 
+    query FeatureVariantAssignments($featureCodes: [String!]!, $realtimeAttributes: FeatureVariantAssignmentFilters) {
+  featureVariantAssignmentsByFeatureCodes(
+    featureCodes: $featureCodes
+    filters: $realtimeAttributes
+  ) {
+    featureCode
+    configuration
+    isInExperiment
+    experimentIds
+    isLocalDefault
+  }
+}
+    
+    at https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/e72998b20c4ca0a3.js:2:26826
+    at async e (https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/15bf6cab2abeb338.js:62:12637) @ https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/abc64f572bcbf9b9.js:18
+[     659ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api/2024-01/graphql/:0
+[     659ms] [ERROR] @udemy-v2/graphql request failed with non-OK status {query: 
+    query GetRecommendations($params: Recommendat…  type
+  title
+  description
+  relativeUrl
+}
+    , variables: Object, url: /api/2024-01/graphql/, requestHeaders: Object, status: 403} @ https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/abc64f572bcbf9b9.js:18
+[     670ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api-2.0/contexts/me/?Config=true&request=true&me=true:0
+[     670ms] [ERROR] Failed to fetch GTM config: Error: Failed to fetch GTM config: 403 
+    at l (https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/b0d679ec5e30a2ba.js:2:458320) @ https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/abc64f572bcbf9b9.js:18
+[     670ms] [ERROR] Failed to fetch GTM config for server-side: Error: Failed to fetch GTM config: 403 
+    at l (https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/b0d679ec5e30a2ba.js:2:458320) @ https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/abc64f572bcbf9b9.js:18
+[     670ms] [ERROR] Failed to fetch GTM config for server-side: Error: Failed to fetch GTM config: 403 
+    at l (https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/b0d679ec5e30a2ba.js:2:458320) @ https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/abc64f572bcbf9b9.js:18
+[     670ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api-2.0/contexts/me/?Config=true:0
+[     671ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api-2.0/notices/me/?type=smart_bar&user=false&use_case_group=cmp_marketplace:0
+[     671ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api-2.0/notices/me/?type=ranked_smart_bar&user=false&use_case_group=cmp_marketplace&limit=3:0
+[     684ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api-2.0/notices/me/?type=smart_bar&user=false&use_case_group=cmp_marketplace:0
+[     738ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api-2.0/notices/me/?type=banner_carousel_slide:0
+[     801ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/frontends-logged-out-homepage/favicon.ico:0
+[     819ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api-2.0/visits/me/datadog-increment-logs/:0
+[     819ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/favicon.ico?favicon.0b562e08.ico:0
+[     819ms] Uncaught (in promise) Error: HTTP error! status: 403
+    at n (https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/b0d679ec5e30a2ba.js:2:18078)
+[    1027ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api-2.0/visits/me/datadog-increment-logs/:0
+[    1027ms] Uncaught (in promise) Error: HTTP error! status: 403
+    at n (https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/b0d679ec5e30a2ba.js:2:18078)
+[    1322ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api-2.0/visits/me/datadog-increment-logs/:0
+[    1321ms] Uncaught (in promise) Error: HTTP error! status: 403
+    at n (https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/b0d679ec5e30a2ba.js:2:18078)
+[    1684ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api/2024-01/graphql/:0
+[    1685ms] [ERROR] @udemy-v2/graphql request failed with non-OK status {query: 
+    query GetAllAvailableConsumerSubscriptionPlan…     maximumLicenseCount
+      }
+    }
+  }
+}
+    , variables: Object, url: /api/2024-01/graphql/, requestHeaders: Object, status: 403} @ https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/abc64f572bcbf9b9.js:18
+[    3665ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api-2.0/ecl?client_key=js&client_version=e144611:0
+[    3667ms] [ERROR] captureExceptionFunc not set @ https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/abc64f572bcbf9b9.js:18
+[    3667ms] [ERROR] Error: Non-200 server response: 403
+    at _.processQueue (https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/b450229edcc74fa7.js:2:22750)
+    at async _._scheduleFlush (https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/b450229edcc74fa7.js:2:21735) @ https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/abc64f572bcbf9b9.js:18
+[    3667ms] Uncaught (in promise) Error: Non-200 server response: 403
+    at processQueue (https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/b450229edcc74fa7.js:2:22750)
+[    3712ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api/2024-01/graphql/:0
+[    3712ms] [ERROR] @udemy-v2/graphql request failed with non-OK status {query: 
+    query GetAllAvailableConsumerSubscriptionPlan…     maximumLicenseCount
+      }
+    }
+  }
+}
+    , variables: Object, url: /api/2024-01/graphql/, requestHeaders: Object, status: 403} @ https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/abc64f572bcbf9b9.js:18
+[    7732ms] [ERROR] Failed to load resource: the server responded with a status of 403 () @ https://www.udemy.com/api/2024-01/graphql/:0
+[    7733ms] [ERROR] @udemy-v2/graphql request failed with non-OK status {query: 
+    query GetAllAvailableConsumerSubscriptionPlan…     maximumLicenseCount
+      }
+    }
+  }
+}
+    , variables: Object, url: /api/2024-01/graphql/, requestHeaders: Object, status: 403} @ https://frontends.udemycdn.com/frontends-logged-out-homepage/_next/static/chunks/abc64f572bcbf9b9.js:18

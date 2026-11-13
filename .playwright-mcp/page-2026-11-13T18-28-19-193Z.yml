@@ -1,0 +1,534 @@
+- generic [active] [ref=f2e1]:
+  - generic [ref=f2e2]:
+    - generic [ref=f2e4]:
+      - generic [ref=f2e5]:
+        - generic [ref=f2e6]:
+          - link "DuckDuckGo home" [ref=f2e7] [cursor=pointer]:
+            - /url: /?t=h_
+            - generic [ref=f2e8]: DuckDuckGo
+          - generic [ref=f2e15]:
+            - combobox "Search privately" [ref=f2e17]: Udemy
+            - button "Search" [ref=f2e19] [cursor=pointer]
+        - button "Open menu" [ref=f2e23] [cursor=pointer]
+      - navigation [ref=f2e31]:
+        - list [ref=f2e32]:
+          - listitem [ref=f2e33]:
+            - link [ref=f2e34] [cursor=pointer]:
+              - /url: /?ia=web&origin=funnel_home_website&t=h_&q=Udemy
+              - strong [ref=f2e35]: All
+          - listitem [ref=f2e38]:
+            - link [ref=f2e39] [cursor=pointer]:
+              - /url: /?ia=images&origin=funnel_home_website&t=h_&q=Udemy&iax=images
+              - strong [ref=f2e40]: Images
+          - listitem [ref=f2e41]:
+            - link [ref=f2e42] [cursor=pointer]:
+              - /url: /?ia=videos&origin=funnel_home_website&t=h_&q=Udemy&iax=videos
+              - strong [ref=f2e43]: Videos
+          - listitem [ref=f2e44]:
+            - link [ref=f2e45] [cursor=pointer]:
+              - /url: /?ia=news&origin=funnel_home_website&t=h_&q=Udemy&iar=news
+              - strong [ref=f2e46]: News
+          - listitem [ref=f2e47]:
+            - link [ref=f2e48] [cursor=pointer]:
+              - /url: /?origin=funnel_home_website&t=h_&q=Udemy&iaxm=maps
+              - strong [ref=f2e49]: Maps
+        - list [ref=f2e50]:
+          - listitem [ref=f2e51]:
+            - link "Search Assist" [ref=f2e53] [cursor=pointer]:
+              - /url: /?ia=web&origin=funnel_home_website&t=h_&q=Udemy&assist=true
+          - listitem [ref=f2e60]:
+            - link "Duck.ai" [ref=f2e62] [cursor=pointer]:
+              - /url: /?ia=chat&origin=funnel_home_website&t=h_&q=Udemy&entry=serp&duckairenameexp=a
+          - listitem [ref=f2e66]:
+            - button "Search Settings ✀" [ref=f2e68] [cursor=pointer]:
+              - generic [ref=f2e71]: Search Settings
+              - generic [ref=f2e72]: ✀
+    - generic [ref=f2e79]:
+      - navigation [ref=f2e81]:
+        - button [ref=f2e83] [cursor=pointer]:
+          - strong [ref=f2e90]: Private
+        - generic [ref=f2e94]:
+          - switch "Filter by the selected region" [ref=f2e98]
+          - button [ref=f2e100] [cursor=pointer]:
+            - strong [ref=f2e103]: Brazil
+        - button [ref=f2e107] [cursor=pointer]:
+          - strong [ref=f2e109]: "Safe search: moderate"
+        - button [ref=f2e113] [cursor=pointer]:
+          - strong [ref=f2e115]: Any time
+      - generic [ref=f2e118]:
+        - generic [ref=f2e119]:
+          - list [ref=f2e120]:
+            - listitem [ref=f2e121]:
+              - article [ref=f2e122] [cursor=pointer]:
+                - button [ref=f2e124]
+                - generic [ref=f2e128]:
+                  - link "Search domain udemy.com" [ref=f2e130]:
+                    - /url: /?q=Udemy+site:www.udemy.com&t=h_
+                  - generic [ref=f2e133]:
+                    - paragraph [ref=f2e134]: Udemy
+                    - link "https://www.udemy.com" [ref=f2e135]:
+                      - /url: https://www.udemy.com/
+                      - paragraph [ref=f2e137]:
+                        - generic [ref=f2e138]: https://www.udemy.com
+                - heading [level=2] [ref=f2e140]:
+                  - 'link "Udemy: Online Courses for Skills, Careers & AI" [ref=f2e141]':
+                    - /url: https://www.udemy.com/
+                - generic [ref=f2e143]: Learn in-demand skills with online courses, get professional certificates that advance your career, and explore courses in AI, coding, business and more.
+                - list [ref=f2e149]:
+                  - listitem [ref=f2e150]:
+                    - 'link "My Courses My Courses - Udemy: Online Courses for Skills, Careers & AI" [ref=f2e151]':
+                      - /url: https://www.udemy.com/home/my-courses/
+                      - heading "My Courses" [level=3] [ref=f2e152]
+                      - paragraph [ref=f2e153]:
+                        - generic [ref=f2e154]: "My Courses - Udemy: Online Courses for Skills, Careers & AI"
+                  - listitem [ref=f2e155]:
+                    - link "Find Free Online Courses Learn Python, Excel, digital marketing, HTML, JavaScript & more with 450+ free courses. Udemy offers certificates from industry professionals." [ref=f2e156]:
+                      - /url: https://www.udemy.com/courses/free/
+                      - heading "Find Free Online Courses" [level=3] [ref=f2e157]
+                      - paragraph [ref=f2e158]:
+                        - generic [ref=f2e159]: Learn Python, Excel, digital marketing, HTML, JavaScript & more with 450+ free courses. Udemy offers certificates from industry professionals.
+                  - listitem [ref=f2e160]:
+                    - 'link "Profile Profile - Udemy: Online Courses for Skills, Careers & AI" [ref=f2e161]':
+                      - /url: https://www.udemy.com/user/edit-profile/
+                      - heading "Profile" [level=3] [ref=f2e162]
+                      - paragraph [ref=f2e163]:
+                        - generic [ref=f2e164]: "Profile - Udemy: Online Courses for Skills, Careers & AI"
+                  - listitem [ref=f2e165]:
+                    - link "It & Software Study the latest operating system architectures or prepare for certification exams with courses from Udemy's world-class instructors." [ref=f2e166]:
+                      - /url: https://www.udemy.com/courses/it-and-software/
+                      - heading "It & Software" [level=3] [ref=f2e167]
+                      - paragraph [ref=f2e168]:
+                        - generic [ref=f2e169]: Study the latest operating system architectures or prepare for certification exams with courses from Udemy's world-class instructors.
+                  - listitem [ref=f2e170]:
+                    - 'link "Notifications Notifications - Udemy: Online Courses for Skills, Careers & AI" [ref=f2e171]':
+                      - /url: https://www.udemy.com/user/view-notifications/
+                      - heading "Notifications" [level=3] [ref=f2e172]
+                      - paragraph [ref=f2e173]:
+                        - generic [ref=f2e174]: "Notifications - Udemy: Online Courses for Skills, Careers & AI"
+                  - listitem [ref=f2e175]:
+                    - 'link "Online Courses in Data Science, Artificial Intelligence, Machine Learning, Big Data Wrangling and More Learn Data Science today: find your Data Science online course on Udemy" [ref=f2e176]':
+                      - /url: https://www.udemy.com/courses/development/data-science/
+                      - heading "Online Courses in Data Science, Artificial Intelligence, Machine Learning, Big Data Wrangling and More" [level=3] [ref=f2e177]
+                      - paragraph [ref=f2e178]:
+                        - generic [ref=f2e179]: "Learn Data Science today: find your Data Science online course on Udemy"
+            - listitem [ref=f2e180]:
+              - article [ref=f2e181] [cursor=pointer]:
+                - button [ref=f2e183]
+                - generic [ref=f2e187]:
+                  - link "Search domain udemy.com" [ref=f2e189]:
+                    - /url: /?q=Udemy+site:www.udemy.com&t=h_
+                  - generic [ref=f2e192]:
+                    - paragraph [ref=f2e193]: Udemy
+                    - link "https://www.udemy.com › user › udemy" [ref=f2e194]:
+                      - /url: https://www.udemy.com/user/udemy/
+                      - paragraph [ref=f2e196]:
+                        - generic [ref=f2e197]: https://www.udemy.com
+                        - generic [ref=f2e198]: › user › udemy
+                - heading [level=2] [ref=f2e200]:
+                  - link "Udemy | Udemy" [ref=f2e201]:
+                    - /url: https://www.udemy.com/user/udemy/
+                - generic [ref=f2e203]: Top companies choose Udemy Businessto build in-demand career skills. English Udemy Business Teach on Udemy Get the app About us Contact us
+            - listitem [ref=f2e208]:
+              - article [ref=f2e209] [cursor=pointer]:
+                - button [ref=f2e211]
+                - generic [ref=f2e215]:
+                  - link "Search domain business.udemy.com" [ref=f2e217]:
+                    - /url: /?q=Udemy+site:business.udemy.com&t=h_
+                  - generic [ref=f2e220]:
+                    - paragraph [ref=f2e221]: Udemy Business
+                    - link "https://business.udemy.com" [ref=f2e222]:
+                      - /url: https://business.udemy.com/
+                      - paragraph [ref=f2e224]:
+                        - generic [ref=f2e225]: https://business.udemy.com
+                - heading [level=2] [ref=f2e227]:
+                  - link "Online Learning Platform for Businesses | Udemy Business" [ref=f2e228]:
+                    - /url: https://business.udemy.com/
+                - generic [ref=f2e230]: Upskill teams with Udemy Business, an online learning platform with 30,000+ courses in AI, tech, and more—built to drive innovation and impact.
+            - listitem [ref=f2e235]:
+              - article [ref=f2e236] [cursor=pointer]:
+                - button [ref=f2e238]
+                - generic [ref=f2e242]:
+                  - link "Search domain about.udemy.com" [ref=f2e244]:
+                    - /url: /?q=Udemy+site:about.udemy.com&t=h_
+                  - generic [ref=f2e247]:
+                    - paragraph [ref=f2e248]: Udemy
+                    - link "https://about.udemy.com" [ref=f2e249]:
+                      - /url: https://about.udemy.com/
+                      - paragraph [ref=f2e251]:
+                        - generic [ref=f2e252]: https://about.udemy.com
+                - heading [level=2] [ref=f2e254]:
+                  - link "Learn about Udemy culture, mission, and careers | About Us" [ref=f2e255]:
+                    - /url: https://about.udemy.com/
+                - generic [ref=f2e257]: Master new skills and achieve goals on Udemy and discover stories of Udemy students and instructors, career opportunities, and company news and events.
+            - listitem [ref=f2e262]:
+              - article [ref=f2e263] [cursor=pointer]:
+                - button [ref=f2e265]
+                - generic [ref=f2e269]:
+                  - link "Search domain community.udemy.com" [ref=f2e271]:
+                    - /url: /?q=Udemy+site:community.udemy.com&t=h_
+                  - generic [ref=f2e274]:
+                    - paragraph [ref=f2e275]: community.udemy.com
+                    - link "https://community.udemy.com › en" [ref=f2e276]:
+                      - /url: https://community.udemy.com/en/
+                      - paragraph [ref=f2e278]:
+                        - generic [ref=f2e279]: https://community.udemy.com
+                        - generic [ref=f2e280]: › en
+                - heading [level=2] [ref=f2e282]:
+                  - link "Home - Udemy" [ref=f2e283]:
+                    - /url: https://community.udemy.com/en/
+                - generic [ref=f2e285]: Udemy Udemy is a great place for those who want to ignite their life through learning and upgrading their minds and fir those who want to share the magic of knowledge to the world.Im new on udemy as an inst…
+            - listitem [ref=f2e290]:
+              - article [ref=f2e291] [cursor=pointer]:
+                - button [ref=f2e293]
+                - generic [ref=f2e297]:
+                  - link "Search domain about.udemy.com" [ref=f2e299]:
+                    - /url: /?q=Udemy+site:about.udemy.com&t=h_
+                  - generic [ref=f2e302]:
+                    - paragraph [ref=f2e303]: Udemy
+                    - link "https://about.udemy.com › udemy-news › coursera-udemy-merger-skills-platform" [ref=f2e304]:
+                      - /url: https://about.udemy.com/udemy-news/coursera-udemy-merger-skills-platform/
+                      - paragraph [ref=f2e306]:
+                        - generic [ref=f2e307]: https://about.udemy.com
+                        - generic [ref=f2e308]: › udemy-news › coursera-udemy-merger-skills-platform
+                - heading [level=2] [ref=f2e310]:
+                  - link "Coursera and Udemy are now one company, creating the world's most ..." [ref=f2e311]:
+                    - /url: https://about.udemy.com/udemy-news/coursera-udemy-merger-skills-platform/
+                - generic [ref=f2e316]:
+                  - text: May 11, 2026·
+                  - generic [ref=f2e317]: Coursera and Udemy unite to form a global AI-driven skills platform, expanding access, innovation, and outcomes for 290M+ learners worldwide.
+            - listitem [ref=f2e318]:
+              - article [ref=f2e319] [cursor=pointer]:
+                - button [ref=f2e321]
+                - generic [ref=f2e325]:
+                  - link "Search domain partnerportal.udemy.com" [ref=f2e327]:
+                    - /url: /?q=Udemy+site:partnerportal.udemy.com&t=h_
+                  - generic [ref=f2e330]:
+                    - paragraph [ref=f2e331]: Udemy
+                    - link "https://partnerportal.udemy.com › user › login" [ref=f2e332]:
+                      - /url: https://partnerportal.udemy.com/user/login
+                      - paragraph [ref=f2e334]:
+                        - generic [ref=f2e335]: https://partnerportal.udemy.com
+                        - generic [ref=f2e336]: › user › login
+                - heading [level=2] [ref=f2e338]:
+                  - link "Login | Udemy | Udemy" [ref=f2e339]:
+                    - /url: https://partnerportal.udemy.com/user/login
+                - generic [ref=f2e341]: This web page is for logging in to Udemy, Inc., the online learning platform. You need to enter your email and password, or sign up if you are not a member yet.
+            - listitem [ref=f2e346]:
+              - article [ref=f2e347] [cursor=pointer]:
+                - button [ref=f2e349]
+                - generic [ref=f2e353]:
+                  - link "Search domain en.wikipedia.org" [ref=f2e355]:
+                    - /url: /?q=Udemy+site:en.wikipedia.org&t=h_
+                  - generic [ref=f2e358]:
+                    - paragraph [ref=f2e359]: Wikipedia
+                    - link "https://en.wikipedia.org › wiki › Udemy" [ref=f2e360]:
+                      - /url: https://en.wikipedia.org/wiki/Udemy
+                      - paragraph [ref=f2e362]:
+                        - generic [ref=f2e363]: https://en.wikipedia.org
+                        - generic [ref=f2e364]: › wiki › Udemy
+                - heading [level=2] [ref=f2e366]:
+                  - link "Udemy - Wikipedia" [ref=f2e367]:
+                    - /url: https://en.wikipedia.org/wiki/Udemy
+                - generic [ref=f2e369]: Udemy (/ ˈjuːdəmi / YOO-də-mee) is a US-based education technology company. Founded as a massive open online course (MOOC) provider in 2010 by Eren Bali, Gagan Biyani, and Oktay Caglar; the company is based in San Francisco, California, [9] with offices in the United States, Australia, India, Ireland, Mexico and Turkey. [10] Its education platform allows both the creation and sharing of ...
+            - listitem [ref=f2e374]:
+              - article [ref=f2e375] [cursor=pointer]:
+                - button [ref=f2e377]
+                - generic [ref=f2e381]:
+                  - link "Search domain youtube.com" [ref=f2e383]:
+                    - /url: /?q=Udemy+site:www.youtube.com&t=h_
+                  - generic [ref=f2e386]:
+                    - paragraph [ref=f2e387]: YouTube
+                    - link "https://www.youtube.com › @udemy" [ref=f2e388]:
+                      - /url: https://www.youtube.com/@udemy
+                      - paragraph [ref=f2e390]:
+                        - generic [ref=f2e391]: https://www.youtube.com
+                        - generic [ref=f2e392]: › @udemy
+                - heading [level=2] [ref=f2e394]:
+                  - link "Udemy - YouTube" [ref=f2e395]:
+                    - /url: https://www.youtube.com/@udemy
+                - generic [ref=f2e397]: Udemy is where skills happen. Join 85 million learners building career-advancing expertise through our AI-powered learning platform with expert instructors across 250,000 courses. Master in-demand ...
+            - listitem [ref=f2e402]:
+              - article [ref=f2e403] [cursor=pointer]:
+                - button [ref=f2e405]
+                - generic [ref=f2e409]:
+                  - link "Search domain udemy.com" [ref=f2e411]:
+                    - /url: /?q=Udemy+site:www.udemy.com&t=h_
+                  - generic [ref=f2e414]:
+                    - paragraph [ref=f2e415]: Udemy
+                    - link "https://www.udemy.com › pt" [ref=f2e416]:
+                      - /url: https://www.udemy.com/pt/
+                      - paragraph [ref=f2e418]:
+                        - generic [ref=f2e419]: https://www.udemy.com
+                        - generic [ref=f2e420]: › pt
+                - heading [level=2] [ref=f2e422]:
+                  - 'link "Udemy: cursos online para habilidades, carreiras e IA" [ref=f2e423]':
+                    - /url: https://www.udemy.com/pt/
+                - generic [ref=f2e425]: Aprenda habilidades em alta demanda com cursos online, obtenha certificados profissionais que avançam sua carreira e explore cursos em IA, programação, negócios e mais.
+            - listitem [ref=f2e429]:
+              - generic [ref=f2e432]:
+                - generic [ref=f2e436]:
+                  - button [aria-hidden] [ref=f2e438] [cursor=pointer]:
+                    - generic [ref=f2e439]: Search Assist
+                  - generic [ref=f2e447]:
+                    - generic [ref=f2e448]:
+                      - button "Copy to clipboard" [ref=f2e449] [cursor=pointer]
+                      - button "Share link" [ref=f2e459] [cursor=pointer]
+                    - button "Learn more about Search Assist and Explore More" [ref=f2e464] [cursor=pointer]
+                    - button "Change Search Assist settings" [ref=f2e469] [cursor=pointer]
+                - generic [ref=f2e475]:
+                  - paragraph [ref=f2e477]: Auto-generated based on listed sources. May contain inaccuracies.
+                  - generic [ref=f2e480]:
+                    - text: Was this helpful?
+                    - button "Positive feedback" [ref=f2e481] [cursor=pointer]
+                    - button "Negative feedback" [ref=f2e485] [cursor=pointer]
+            - listitem [ref=f2e489]:
+              - generic [ref=f2e491]:
+                - paragraph [ref=f2e492]: Searches related to Udemy
+                - generic [ref=f2e493]:
+                  - list [ref=f2e494]:
+                    - listitem [ref=f2e495]:
+                      - link "udemy login" [ref=f2e496] [cursor=pointer]:
+                        - /url: "?q=udemy%20login&origin=related&t=h_"
+                    - listitem [ref=f2e499]:
+                      - link "udemy free courses with certificate" [ref=f2e500] [cursor=pointer]:
+                        - /url: "?q=udemy%20free%20courses%20with%20certificate&origin=related&t=h_"
+                    - listitem [ref=f2e503]:
+                      - link "udemy app download for pc" [ref=f2e504] [cursor=pointer]:
+                        - /url: "?q=udemy%20app%20download%20for%20pc&origin=related&t=h_"
+                    - listitem [ref=f2e507]:
+                      - link "udemy sign up" [ref=f2e508] [cursor=pointer]:
+                        - /url: "?q=udemy%20sign%20up&origin=related&t=h_"
+                    - listitem [ref=f2e511]:
+                      - link "udemy ey" [ref=f2e512] [cursor=pointer]:
+                        - /url: "?q=udemy%20ey&origin=related&t=h_"
+                  - list [ref=f2e515]:
+                    - listitem [ref=f2e516]:
+                      - link "udemy.com" [ref=f2e517] [cursor=pointer]:
+                        - /url: "?q=udemy.com&origin=related&t=h_"
+                    - listitem [ref=f2e520]:
+                      - link "udemy sign in" [ref=f2e521] [cursor=pointer]:
+                        - /url: "?q=udemy%20sign%20in&origin=related&t=h_"
+                    - listitem [ref=f2e524]:
+                      - link "udemy website" [ref=f2e525] [cursor=pointer]:
+                        - /url: "?q=udemy%20website&origin=related&t=h_"
+                    - listitem [ref=f2e528]:
+                      - link "udemy course" [ref=f2e529] [cursor=pointer]:
+                        - /url: "?q=udemy%20course&origin=related&t=h_"
+                    - listitem [ref=f2e532]:
+                      - link "udemy login my courses" [ref=f2e533] [cursor=pointer]:
+                        - /url: "?q=udemy%20login%20my%20courses&origin=related&t=h_"
+                - generic [ref=f2e541]:
+                  - text: Was this helpful?
+                  - button "Positive feedback" [ref=f2e542] [cursor=pointer]
+                  - button "Negative feedback" [ref=f2e546] [cursor=pointer]
+          - button "More results" [ref=f2e552] [cursor=pointer]
+        - list [ref=f2e554]:
+          - listitem [ref=f2e555]:
+            - generic [ref=f2e558]:
+              - generic [ref=f2e559]:
+                - generic [ref=f2e560]:
+                  - generic [ref=f2e561]:
+                    - link "More Images" [ref=f2e562] [cursor=pointer]:
+                      - /url: /?q=Udemy%20Online%20learning%20platform&ia=images&iax=images
+                    - link [ref=f2e566] [cursor=pointer]:
+                      - /url: https://en.wikipedia.org/wiki/Udemy
+                      - heading "Udemy" [level=2] [ref=f2e567]
+                    - generic [ref=f2e568]:
+                      - generic [ref=f2e569]: Online learning platform
+                      - link "udemy.com" [ref=f2e570] [cursor=pointer]:
+                        - /url: https://www.udemy.com/
+                    - generic [ref=f2e571]:
+                      - generic [ref=f2e572]: Udemy is a US-based education technology company. Founded as a massive open online course provider in 2010 by Eren Bali, Gagan Biyani, and Oktay Caglar; the company is based in San Francisco, California, with offices in the United States, Australia, India, Ireland, Mexico and Turkey. Its education platform allows both the creation and sharing of online courses. Courses are typically video-based and on-demand....
+                      - link "Continued in Wikipedia" [ref=f2e573] [cursor=pointer]:
+                        - /url: https://en.wikipedia.org/wiki/Udemy
+                  - generic [ref=f2e574]:
+                    - generic [ref=f2e575]:
+                      - term [ref=f2e576]: Type of business
+                      - definition [ref=f2e577]: wholly owned subsidiary
+                    - generic [ref=f2e578]:
+                      - term [ref=f2e579]: Available in
+                      - definition [ref=f2e580]: Arabic, English, French, German, Hindi, Italian, Indonesian, Japanese, Korean, Mandarin
+                    - generic [ref=f2e581]:
+                      - term [ref=f2e582]: Founded
+                      - definition [ref=f2e583]: May 11, 2010
+                  - generic [ref=f2e584]:
+                    - paragraph [aria-hidden] [ref=f2e585]: Quick links
+                    - generic [ref=f2e586]:
+                      - link "Website" [ref=f2e587] [cursor=pointer]:
+                        - /url: https://www.udemy.com/
+                      - link "Wikipedia" [ref=f2e590] [cursor=pointer]:
+                        - /url: https://en.wikipedia.org/wiki/Udemy
+                      - link "X" [ref=f2e593] [cursor=pointer]:
+                        - /url: https://twitter.com/udemy
+                      - link "Facebook" [ref=f2e596] [cursor=pointer]:
+                        - /url: https://facebook.com/udemy
+                - generic [ref=f2e600] [cursor=pointer]
+              - generic [ref=f2e603]:
+                - generic [ref=f2e605]:
+                  - text: "Source:"
+                  - link "Wikipedia" [ref=f2e606] [cursor=pointer]:
+                    - /url: https://en.wikipedia.org/wiki/Udemy
+                - generic [ref=f2e607]:
+                  - text: •
+                  - generic [ref=f2e609]:
+                    - text: Was this helpful?
+                    - button "Positive feedback" [ref=f2e610] [cursor=pointer]
+                    - button "Negative feedback" [ref=f2e614] [cursor=pointer]
+    - list [ref=f2e619]:
+      - button "Close menu" [ref=f2e620] [cursor=pointer]
+      - list [ref=f2e624]:
+        - listitem [ref=f2e625]: Search
+        - listitem [ref=f2e626]:
+          - link "Homepage" [ref=f2e627] [cursor=pointer]:
+            - /url: https://start.duckduckgo.com/
+        - listitem [ref=f2e628]:
+          - link "Themes" [ref=f2e629] [cursor=pointer]:
+            - /url: /settings#appearance
+        - listitem [ref=f2e630]:
+          - link "Settings" [ref=f2e631] [cursor=pointer]:
+            - /url: /settings
+      - list [ref=f2e632]:
+        - listitem [ref=f2e633]: Share Feedback
+        - listitem [ref=f2e634]:
+          - generic [ref=f2e637]:
+            - button "Positive feedback" [ref=f2e638] [cursor=pointer]
+            - button "Negative feedback" [ref=f2e642] [cursor=pointer]
+      - list [ref=f2e646]:
+        - listitem [ref=f2e647]: Downloads
+        - listitem [ref=f2e648]:
+          - link "iOS Browser" [ref=f2e649] [cursor=pointer]:
+            - /url: https://apps.apple.com/app/duckduckgo-private-browser/id663592361?platform=iphone&pt=866401&mt=8&ct=serp-atb-serp
+        - listitem [ref=f2e650]:
+          - link "Android Browser" [ref=f2e651] [cursor=pointer]:
+            - /url: https://play.google.com/store/apps/details?id=com.duckduckgo.mobile.android&referrer=utm_campaign%3Dserp-atb-serp%26origin%3Dfunnel_playstore_searchresults
+        - listitem [ref=f2e652]:
+          - link "Mac Browser" [ref=f2e653] [cursor=pointer]:
+            - /url: /mac?origin=funnel_browser_searchresults
+        - listitem [ref=f2e654]:
+          - link "Windows Browser" [ref=f2e655] [cursor=pointer]:
+            - /url: /windows?origin=funnel_browser_searchresults
+        - listitem [ref=f2e656]:
+          - link "Browser Extensions" [ref=f2e657] [cursor=pointer]:
+            - /url: /duckduckgo-help-pages/desktop/adding-duckduckgo-to-your-browser/
+      - list [ref=f2e658]:
+        - listitem [ref=f2e659]: More From DuckDuckGo
+        - listitem [ref=f2e660]:
+          - generic [ref=f2e663]:
+            - button "Dismiss promotion" [ref=f2e664] [cursor=pointer]
+            - generic [ref=f2e667]:
+              - paragraph [ref=f2e669]:
+                - strong [ref=f2e670]: Upgrade to our Private Browser
+              - paragraph [ref=f2e671]: Fast. Secure. Free.
+            - link "Download Browser" [ref=f2e672] [cursor=pointer]:
+              - /url: /windows
+        - listitem [ref=f2e675]:
+          - link "Duck.ai" [ref=f2e676] [cursor=pointer]:
+            - /url: https://duck.ai
+        - listitem [ref=f2e677]:
+          - link "Email Protection" [ref=f2e678] [cursor=pointer]:
+            - /url: /email
+        - listitem [ref=f2e679]:
+          - link "Newsletter" [ref=f2e680] [cursor=pointer]:
+            - /url: /newsletter
+        - listitem [ref=f2e681]:
+          - link "Blog" [ref=f2e682] [cursor=pointer]:
+            - /url: /blog
+        - listitem [ref=f2e683]:
+          - link "Podcast" [ref=f2e684] [cursor=pointer]:
+            - /url: https://insideduckduckgo.substack.com/?showWelcome=true
+        - listitem [ref=f2e685]:
+          - link "Collaborations" [ref=f2e686] [cursor=pointer]:
+            - /url: /collaborations
+      - list [ref=f2e687]:
+        - listitem [ref=f2e688]: Learn More
+        - listitem [ref=f2e689]:
+          - link "What’s New" [ref=f2e690] [cursor=pointer]:
+            - /url: /updates
+        - listitem [ref=f2e691]:
+          - link "Compare Privacy" [ref=f2e692] [cursor=pointer]:
+            - /url: /compare-privacy
+        - listitem [ref=f2e693]:
+          - link "About Our Browser" [ref=f2e694] [cursor=pointer]:
+            - /url: /app
+        - listitem [ref=f2e695]:
+          - link "About DuckDuckGo" [ref=f2e696] [cursor=pointer]:
+            - /url: /about
+      - list [ref=f2e697]:
+        - listitem [ref=f2e698]: Other Resources
+        - listitem [ref=f2e699]:
+          - link "Help" [ref=f2e700] [cursor=pointer]:
+            - /url: /duckduckgo-help-pages
+        - listitem [ref=f2e701]:
+          - link "Community" [ref=f2e702] [cursor=pointer]:
+            - /url: https://www.reddit.com/r/duckduckgo/
+        - listitem [ref=f2e703]:
+          - link "Careers" [ref=f2e704] [cursor=pointer]:
+            - /url: /careers
+        - listitem [ref=f2e705]:
+          - link "Privacy Policy" [ref=f2e706] [cursor=pointer]:
+            - /url: /privacy
+        - listitem [ref=f2e707]:
+          - link "Terms of Service" [ref=f2e708] [cursor=pointer]:
+            - /url: /terms
+        - listitem [ref=f2e709]:
+          - link "Press Kit" [ref=f2e710] [cursor=pointer]:
+            - /url: /press
+        - listitem [ref=f2e711]:
+          - link "Advertise on Search" [ref=f2e712] [cursor=pointer]:
+            - /url: /duckduckgo-help-pages/company/advertise-on-duckduckgo-search
+  - generic [ref=f2e716]:
+    - generic [ref=f2e718]:
+      - generic [ref=f2e734]:
+        - heading "Get Our Windows Browser" [level=3] [ref=f2e735]
+        - paragraph [ref=f2e736]: Protect your data as you search, browse, and use AI.
+      - link "Download" [ref=f2e737] [cursor=pointer]:
+        - /url: https://duckduckgo.com/windows?origin=funnel_browser_searchresults__footercard
+    - generic [ref=f2e741]:
+      - generic [ref=f2e742]:
+        - heading "Learn More" [level=3] [ref=f2e743]
+        - list [ref=f2e744]:
+          - listitem [ref=f2e745]:
+            - link "What's New" [ref=f2e746] [cursor=pointer]:
+              - /url: https://duckduckgo.com/updates
+          - listitem [ref=f2e747]:
+            - link "About Browser" [ref=f2e748] [cursor=pointer]:
+              - /url: https://duckduckgo.com/app
+          - listitem [ref=f2e749]:
+            - link "Compare Privacy" [ref=f2e750] [cursor=pointer]:
+              - /url: https://duckduckgo.com/compare-privacy
+          - listitem [ref=f2e751]:
+            - link "Help Pages" [ref=f2e752] [cursor=pointer]:
+              - /url: https://duckduckgo.com/duckduckgo-help-pages/
+      - generic [ref=f2e753]:
+        - heading "Get More" [level=3] [ref=f2e754]
+        - list [ref=f2e755]:
+          - listitem [ref=f2e756]:
+            - link "Email Protection" [ref=f2e757] [cursor=pointer]:
+              - /url: https://duckduckgo.com/email
+          - listitem [ref=f2e758]:
+            - generic [ref=f2e759]:
+              - link "Podcast" [ref=f2e761] [cursor=pointer]:
+                - /url: https://insideduckduckgo.substack.com/?showWelcome=true
+              - generic [ref=f2e762]:
+                - text: "&"
+                - link "Newsletter" [ref=f2e763] [cursor=pointer]:
+                  - /url: https://duckduckgo.com/newsletter
+          - listitem [ref=f2e764]:
+            - link "Collaborations" [ref=f2e765] [cursor=pointer]:
+              - /url: https://duckduckgo.com/collaborations
+  - button "Share Feedback" [ref=f2e770] [cursor=pointer]
+  - generic [ref=f2e771]:
+    - generic [ref=f2e773]:
+      - banner [ref=f2e774]:
+        - paragraph [ref=f2e775]:
+          - strong [ref=f2e776]: Upgrade to our browser.
+      - generic [ref=f2e777]:
+        - paragraph [ref=f2e778]:
+          - generic [ref=f2e779]:
+            - text: Try the
+            - strong [ref=f2e780]: DuckDuckGo Browser.
+            - text: Fast. Free. Private.
+        - link "Download Browser" [ref=f2e781] [cursor=pointer]:
+          - /url: https://duckduckgo.com/windows?origin=funnel_browser_searchresults__popover
+      - generic [ref=f2e785]: Free
+    - button "Dismiss" [ref=f2e790] [cursor=pointer]
